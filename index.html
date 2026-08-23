@@ -2,100 +2,129 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>NSE CPR Pro | Multi-Timeframe Equity Screener</title>
   <script src="https://cdn.tailwindcss.com"></script>
-  <script src="https://unpkg.com/lightweight-charts/dist/lightweight-charts.standalone.production.js"></script>
+  <!-- Pinned Stable Lightweight Charts v4.0.1 -->
+  <script src="https://unpkg.com/lightweight-charts@4.0.1/dist/lightweight-charts.standalone.production.js"></script>
   <link rel="stylesheet" href="style.css">
 </head>
-<body class="bg-slate-950 text-slate-100 font-sans min-h-screen">
+<body class="bg-slate-950 text-slate-100 font-sans min-h-screen pb-12">
 
   <!-- Header -->
-  <header class="border-b border-slate-800 bg-slate-900/80 backdrop-blur sticky top-0 z-40 px-6 py-4 flex flex-wrap items-center justify-between gap-4">
+  <header class="border-b border-slate-800 bg-slate-900/90 backdrop-blur sticky top-0 z-40 px-4 sm:px-6 py-3 sm:py-4 flex flex-wrap items-center justify-between gap-3">
     <div class="flex items-center space-x-3">
-      <div class="bg-emerald-500/20 text-emerald-400 p-2 rounded-lg font-bold text-xl border border-emerald-500/30">📊</div>
+      <div class="bg-emerald-500/20 text-emerald-400 p-2 rounded-lg font-bold text-lg sm:text-xl border border-emerald-500/30">📊</div>
       <div>
-        <h1 class="text-xl font-bold tracking-tight text-white flex items-center gap-2">
-          NSE CPR Pro Screener
-          <span class="text-xs bg-indigo-500/20 text-indigo-400 border border-indigo-500/30 px-2 py-0.5 rounded-full font-medium">Daily • Weekly • Monthly</span>
+        <h1 class="text-base sm:text-xl font-bold tracking-tight text-white flex items-center gap-2">
+          NSE CPR Pro
+          <span class="text-[10px] sm:text-xs bg-indigo-500/20 text-indigo-400 border border-indigo-500/30 px-2 py-0.5 rounded-full font-medium">Daily • Weekly • Monthly</span>
         </h1>
-        <p class="text-xs text-slate-400">Institutional Breakout & Compression Screener for Indian Equities</p>
+        <p class="text-[10px] sm:text-xs text-slate-400">Institutional Quant & Sniper Breakout Engine</p>
       </div>
     </div>
-    <div class="flex items-center space-x-4 text-xs">
-      <span class="text-slate-400 flex items-center gap-1.5">
+    
+    <div class="flex items-center space-x-2 sm:space-x-3 text-xs w-full sm:w-auto justify-between sm:justify-end">
+      <span class="text-slate-400 flex items-center gap-1 text-[11px]">
         <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
-        Last Updated: <strong id="last-updated" class="text-slate-200">Loading...</strong>
+        Data as of: <strong id="last-updated" class="text-slate-300">Loading...</strong>
       </span>
+      <button onclick="exportToTradingView()" class="bg-amber-500/10 hover:bg-amber-500/20 text-amber-400 border border-amber-500/30 px-2.5 sm:px-3 py-1.5 rounded-lg flex items-center gap-1 font-medium transition text-[11px] sm:text-xs shadow-sm">
+        📋 Copy TV
+      </button>
     </div>
   </header>
 
-  <!-- KPI Summary Banner -->
-  <div class="max-w-7xl mx-auto px-6 py-6 grid grid-cols-2 sm:grid-cols-4 gap-4">
-    <div class="bg-slate-900/60 border border-slate-800 rounded-xl p-4">
-      <div class="text-xs text-slate-400 font-medium">⭐ 5-Star High Conviction</div>
-      <div id="kpi-5star" class="text-2xl font-bold text-amber-400 mt-1">0</div>
+  <!-- KPI Summary Banner (With Diamond Sniper Count) -->
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 py-4 sm:py-6 grid grid-cols-2 sm:grid-cols-4 gap-3 sm:gap-4">
+    <div class="bg-slate-900/80 border border-emerald-500/40 rounded-xl p-3 sm:p-4 cursor-pointer hover:border-emerald-400 transition relative overflow-hidden shadow-lg shadow-emerald-500/5" onclick="setStrategyPill('diamond')">
+      <div class="text-[10px] sm:text-xs text-emerald-400 font-semibold uppercase tracking-wider">💎 Sniper List (Score ≥80)</div>
+      <div id="kpi-diamond" class="text-xl sm:text-2xl font-black text-white mt-1">0</div>
+      <span class="text-[10px] text-slate-400">Top 5-10 Actionable Trades</span>
     </div>
-    <div class="bg-slate-900/60 border border-slate-800 rounded-xl p-4">
-      <div class="text-xs text-slate-400 font-medium">🎯 Narrow CPR Breakouts</div>
-      <div id="kpi-narrow" class="text-2xl font-bold text-cyan-400 mt-1">0</div>
+
+    <div class="bg-slate-900/60 border border-slate-800 rounded-xl p-3 sm:p-4 cursor-pointer hover:border-cyan-500/40 transition" onclick="setStrategyPill('extreme')">
+      <div class="text-[10px] sm:text-xs text-slate-400 font-medium">🔥 Extreme 30D Squeeze</div>
+      <div id="kpi-narrow" class="text-xl sm:text-2xl font-bold text-cyan-400 mt-1">0</div>
+      <span class="text-[10px] text-slate-500">< 50% of 30D Width</span>
     </div>
-    <div class="bg-slate-900/60 border border-slate-800 rounded-xl p-4">
-      <div class="text-xs text-slate-400 font-medium">🟢 Triple Bullish Confluence</div>
-      <div id="kpi-bull" class="text-2xl font-bold text-emerald-400 mt-1">0</div>
+
+    <div class="bg-slate-900/60 border border-slate-800 rounded-xl p-3 sm:p-4 cursor-pointer hover:border-emerald-500/40 transition" onclick="setStrategyPill('triple_bull')">
+      <div class="text-[10px] sm:text-xs text-slate-400 font-medium">🟢 Triple Bullish Confluence</div>
+      <div id="kpi-bull" class="text-xl sm:text-2xl font-bold text-emerald-400 mt-1">0</div>
+      <span class="text-[10px] text-slate-500">Daily + Weekly + Monthly</span>
     </div>
-    <div class="bg-slate-900/60 border border-slate-800 rounded-xl p-4">
-      <div class="text-xs text-slate-400 font-medium">⚡ Active Liquid Universe</div>
-      <div id="kpi-total" class="text-2xl font-bold text-slate-200 mt-1">0</div>
+
+    <div class="bg-slate-900/60 border border-slate-800 rounded-xl p-3 sm:p-4">
+      <div class="text-[10px] sm:text-xs text-slate-400 font-medium">⚡ Active Universe</div>
+      <div id="kpi-total" class="text-xl sm:text-2xl font-bold text-slate-200 mt-1">0</div>
+      <span class="text-[10px] text-slate-500">Turnover ≥ ₹5 Cr</span>
     </div>
   </div>
 
-  <!-- Filters & Controls Bar -->
-  <div class="max-w-7xl mx-auto px-6 mb-6">
-    <div class="bg-slate-900/90 border border-slate-800 rounded-xl p-4 flex flex-wrap items-center justify-between gap-4">
+  <!-- Strategy Presets -->
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 mb-3 overflow-x-auto pb-1.5 flex items-center gap-2 text-xs whitespace-nowrap scrollbar-none">
+    <span class="text-slate-400 font-medium mr-1 text-[11px]">Presets:</span>
+    <button id="pill-diamond" class="preset-pill px-3 py-1.5 rounded-full bg-emerald-600 border border-emerald-400 text-white font-bold text-xs transition shadow-lg shadow-emerald-500/20" onclick="setStrategyPill('diamond')">💎 Diamond Sniper List (Top 10)</button>
+    <button id="pill-all" class="preset-pill px-3 py-1.5 rounded-full bg-slate-900 border border-slate-800 text-slate-300 hover:border-slate-600 text-xs transition" onclick="setStrategyPill('all')">All Stocks</button>
+    <button id="pill-extreme" class="preset-pill px-3 py-1.5 rounded-full bg-slate-900 border border-slate-800 text-slate-300 hover:border-cyan-500 text-xs transition" onclick="setStrategyPill('extreme')">🔥 Extreme Squeeze (<40%)</button>
+    <button id="pill-triple_bull" class="preset-pill px-3 py-1.5 rounded-full bg-slate-900 border border-slate-800 text-slate-300 hover:border-emerald-500 text-xs transition" onclick="setStrategyPill('triple_bull')">🟢 Triple Bullish (D+W+M)</button>
+    <button id="pill-rs_leaders" class="preset-pill px-3 py-1.5 rounded-full bg-slate-900 border border-slate-800 text-slate-300 hover:border-cyan-500 text-xs transition" onclick="setStrategyPill('rs_leaders')">🚀 High RS Leaders (>8%)</button>
+    <button id="pill-weekly_swing" class="preset-pill px-3 py-1.5 rounded-full bg-slate-900 border border-slate-800 text-slate-300 hover:border-indigo-500 text-xs transition" onclick="setStrategyPill('weekly_swing')">📅 Weekly Swing Watch</button>
+  </div>
+
+  <!-- Controls & Filters Bar -->
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 mb-4 sm:mb-6">
+    <div class="bg-slate-900/90 border border-slate-800 rounded-xl p-3 sm:p-4 flex flex-col md:flex-row items-stretch md:items-center justify-between gap-3">
       
-      <!-- Timeframe Selector -->
-      <div class="flex bg-slate-950 border border-slate-800 rounded-lg p-1 text-xs">
-        <button id="btn-daily" class="tf-btn px-4 py-1.5 rounded-md bg-emerald-600 text-white font-medium" onclick="setTimeframe('daily')">Daily CPR</button>
-        <button id="btn-weekly" class="tf-btn px-4 py-1.5 rounded-md text-slate-400 hover:text-white" onclick="setTimeframe('weekly')">Weekly CPR</button>
-        <button id="btn-monthly" class="tf-btn px-4 py-1.5 rounded-md text-slate-400 hover:text-white" onclick="setTimeframe('monthly')">Monthly CPR</button>
+      <!-- Timeframe Selector & View Switcher -->
+      <div class="flex items-center justify-between gap-2">
+        <div class="flex bg-slate-950 border border-slate-800 rounded-lg p-1 text-xs">
+          <button id="btn-daily" class="tf-btn px-3 sm:px-4 py-1.5 rounded-md bg-emerald-600 text-white font-medium" onclick="setTimeframe('daily')">Daily CPR</button>
+          <button id="btn-weekly" class="tf-btn px-3 sm:px-4 py-1.5 rounded-md text-slate-400 hover:text-white" onclick="setTimeframe('weekly')">Weekly CPR</button>
+          <button id="btn-monthly" class="tf-btn px-4 sm:px-4 py-1.5 rounded-md text-slate-400 hover:text-white" onclick="setTimeframe('monthly')">Monthly CPR</button>
+        </div>
+
+        <div class="flex bg-slate-950 border border-slate-800 rounded-lg p-1 text-xs">
+          <button id="btn-view-cards" class="view-btn px-2.5 py-1.5 rounded-md text-slate-400 hover:text-white" onclick="setViewMode('cards')" title="Card View">📱 Cards</button>
+          <button id="btn-view-table" class="view-btn px-2.5 py-1.5 rounded-md bg-slate-800 text-white font-medium" onclick="setViewMode('table')" title="Table View">📊 Table</button>
+        </div>
       </div>
 
-      <!-- Quick Filter Dropdowns -->
-      <div class="flex flex-wrap items-center gap-3 text-xs">
-        <select id="filter-rating" onchange="applyFilters()" class="bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-slate-200 focus:outline-none focus:border-emerald-500">
-          <option value="all">All Star Ratings</option>
-          <option value="5">5-Star Setups Only ⭐⭐⭐⭐⭐</option>
-          <option value="4">4★ and 5★ Setups</option>
+      <!-- Filter Dropdowns -->
+      <div class="grid grid-cols-2 sm:flex sm:flex-wrap items-center gap-2 sm:gap-3 text-xs">
+        <select id="filter-industry" onchange="applyFilters()" class="bg-slate-950 border border-indigo-500/40 rounded-lg px-2 sm:px-3 py-2 text-indigo-300 font-medium text-[11px] sm:text-xs">
+          <option value="all">🏢 All Sectors</option>
         </select>
 
-        <select id="filter-compression" onchange="applyFilters()" class="bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-slate-200 focus:outline-none focus:border-emerald-500">
-          <option value="all">All CPR Widths</option>
-          <option value="narrow">Narrow & Extreme Narrow (<0.5%)</option>
-          <option value="extreme">Extreme Compression (<40% Avg)</option>
+        <select id="filter-score" onchange="applyFilters()" class="bg-slate-950 border border-emerald-500/40 rounded-lg px-2 sm:px-3 py-2 text-emerald-300 font-medium text-[11px] sm:text-xs">
+          <option value="all">Quant Score: All</option>
+          <option value="80">💎 Score ≥ 80 (Sniper)</option>
+          <option value="65">⭐ Score ≥ 65 (High)</option>
+          <option value="50">Score ≥ 50</option>
         </select>
 
-        <select id="filter-bias" onchange="applyFilters()" class="bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-slate-200 focus:outline-none focus:border-emerald-500">
-          <option value="all">All Price Positions</option>
-          <option value="bullish">Above CPR (Bullish > TC)</option>
-          <option value="bearish">Below CPR (Bearish < BC)</option>
-        </select>
-
-        <input type="text" id="search-box" onkeyup="applyFilters()" placeholder="🔍 Search symbol / sector..." class="bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-slate-200 w-48 focus:outline-none focus:border-emerald-500">
+        <input type="text" id="search-box" onkeyup="applyFilters()" placeholder="🔍 Search..." class="bg-slate-950 border border-slate-800 rounded-lg px-2 sm:px-3 py-2 text-slate-200 w-full sm:w-36 text-[11px] sm:text-xs focus:border-emerald-500">
       </div>
     </div>
   </div>
 
-  <!-- Data Table Section -->
-  <div class="max-w-7xl mx-auto px-6 mb-12">
+  <!-- Mobile Card View Container -->
+  <div id="mobile-cards-container" class="max-w-7xl mx-auto px-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 hidden">
+    <!-- Dynamic Cards -->
+  </div>
+
+  <!-- Desktop Data Table Container -->
+  <div id="desktop-table-container" class="max-w-7xl mx-auto px-4 sm:px-6 mb-12">
     <div class="bg-slate-900/60 border border-slate-800 rounded-xl overflow-hidden shadow-2xl">
       <div class="overflow-x-auto">
-        <table class="w-full text-left text-xs">
+        <table class="w-full text-left text-xs" id="screener-table">
           <thead class="bg-slate-950/80 border-b border-slate-800 text-slate-400 uppercase tracking-wider font-semibold">
             <tr>
-              <th class="px-4 py-3">Stock Symbol</th>
+              <th class="px-4 py-3 sticky left-0 bg-slate-950 z-20 min-w-[90px]">Symbol</th>
+              <th class="px-4 py-3 sticky left-[90px] bg-slate-950 z-20 border-r border-slate-800 min-w-[150px]">Company Name</th>
               <th class="px-4 py-3">Price</th>
-              <th class="px-4 py-3">Rating</th>
+              <th class="px-4 py-3">Quant Score</th>
               <th class="px-4 py-3">CPR Width %</th>
               <th class="px-4 py-3">Compression</th>
               <th class="px-4 py-3">RVOL</th>
@@ -104,31 +133,58 @@
               <th class="px-4 py-3">Pivot (P)</th>
               <th class="px-4 py-3">BC</th>
               <th class="px-4 py-3">Confluence</th>
-              <th class="px-4 py-3 text-center">Chart</th>
+              <th class="px-4 py-3 text-center">Charts</th>
             </tr>
           </thead>
           <tbody id="screener-table-body" class="divide-y divide-slate-800/60">
-            <!-- Dynamic Rows Injected Here -->
+            <!-- Dynamic Rows -->
           </tbody>
         </table>
       </div>
     </div>
   </div>
 
-  <!-- Interactive Candlestick Chart Modal -->
-  <div id="chart-modal" class="fixed inset-0 bg-black/80 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4">
-    <div class="bg-slate-900 border border-slate-800 rounded-2xl w-full max-w-4xl overflow-hidden shadow-2xl">
-      <div class="px-6 py-4 border-b border-slate-800 flex items-center justify-between bg-slate-950">
+  <!-- Dual Chart Modal -->
+  <div id="chart-modal" onclick="handleBackdropClick(event)" class="fixed inset-0 bg-black/90 backdrop-blur-md z-50 hidden flex items-center justify-center p-2 sm:p-4">
+    <div class="bg-slate-900 border border-slate-800 rounded-xl sm:rounded-2xl w-full max-w-5xl overflow-hidden shadow-2xl flex flex-col max-h-[96vh] sm:max-h-[92vh]" onclick="event.stopPropagation()">
+      
+      <!-- Modal Header -->
+      <div class="px-4 sm:px-6 py-3 sm:py-4 border-b border-slate-800 flex flex-wrap items-center justify-between gap-2 bg-slate-950">
         <div>
-          <h3 id="modal-title" class="text-base font-bold text-white">Stock Chart</h3>
-          <p id="modal-subtitle" class="text-xs text-slate-400">CPR Levels & Candlestick Price Action</p>
+          <h3 id="modal-title" class="text-sm sm:text-base font-bold text-white flex items-center gap-2">Stock Chart</h3>
+          <p id="modal-subtitle" class="text-[10px] sm:text-xs text-slate-400">CPR Levels & Candlestick Price Action</p>
         </div>
-        <button onclick="closeChartModal()" class="text-slate-400 hover:text-white text-lg font-bold">✕</button>
+
+        <div class="flex items-center gap-2">
+          <div class="flex bg-slate-900 border border-slate-800 rounded-lg p-0.5 text-[11px] sm:text-xs">
+            <button id="btn-tab-cpr" class="px-2.5 sm:px-3 py-1 rounded bg-emerald-600 text-white font-medium" onclick="switchChartTab('cpr')">📊 CPR</button>
+            <button id="btn-tab-tv" class="px-2.5 sm:px-3 py-1 rounded text-slate-400 hover:text-white" onclick="switchChartTab('tv')">🚀 TV Live</button>
+          </div>
+          <button onclick="closeChartModal()" class="bg-rose-500/10 hover:bg-rose-500/20 text-rose-400 border border-rose-500/30 px-2.5 py-1 rounded-lg text-xs font-bold transition">
+            ✕ Close
+          </button>
+        </div>
       </div>
-      <div id="chart-container" class="w-full h-96 p-4"></div>
-      <div id="modal-levels" class="px-6 py-3 bg-slate-950/90 border-t border-slate-800 flex flex-wrap gap-4 text-xs">
-        <!-- Level badges -->
+
+      <!-- Tab 1: Lightweight Charts CPR View -->
+      <div id="cpr-chart-view" class="w-full p-2 sm:p-4 bg-slate-950/60 flex-1 flex flex-col">
+        <div id="chart-container" style="width: 100%; height: 340px; min-height: 320px;"></div>
+        <div id="modal-levels" class="mt-2 p-2.5 bg-slate-900/90 border border-slate-800 rounded-lg flex flex-wrap gap-2.5 text-[11px]">
+          <!-- Badges -->
+        </div>
       </div>
+
+      <!-- Tab 2: Live TradingView Embed View -->
+      <div id="tv-chart-view" class="w-full p-1 bg-slate-950 hidden flex-1 min-h-[380px]">
+        <div id="tv-widget-container" class="w-full h-full min-h-[380px]"></div>
+      </div>
+
+      <!-- Modal Footer -->
+      <div class="px-4 py-2.5 bg-slate-950 border-t border-slate-800 flex items-center justify-between text-[11px] text-slate-500">
+        <span>Tip: Press ESC or tap outside to close</span>
+        <button onclick="closeChartModal()" class="text-slate-400 hover:text-white">Close Window</button>
+      </div>
+
     </div>
   </div>
 
