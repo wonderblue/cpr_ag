@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NSE CPR Pro | Multi-Timeframe Equity Screener</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/lightweight-charts/dist/lightweight-charts.standalone.production.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-slate-950 text-slate-100 font-sans min-h-screen">
+
+  <!-- Header -->
+  <header class="border-b border-slate-800 bg-slate-900/80 backdrop-blur sticky top-0 z-40 px-6 py-4 flex flex-wrap items-center justify-between gap-4">
+    <div class="flex items-center space-x-3">
+      <div class="bg-emerald-500/20 text-emerald-400 p-2 rounded-lg font-bold text-xl border border-emerald-500/30">📊</div>
+      <div>
+        <h1 class="text-xl font-bold tracking-tight text-white flex items-center gap-2">
+          NSE CPR Pro Screener
+          <span class="text-xs bg-indigo-500/20 text-indigo-400 border border-indigo-500/30 px-2 py-0.5 rounded-full font-medium">Daily • Weekly • Monthly</span>
+        </h1>
+        <p class="text-xs text-slate-400">Institutional Breakout & Compression Screener for Indian Equities</p>
+      </div>
+    </div>
+    <div class="flex items-center space-x-4 text-xs">
+      <span class="text-slate-400 flex items-center gap-1.5">
+        <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+        Last Updated: <strong id="last-updated" class="text-slate-200">Loading...</strong>
+      </span>
+    </div>
+  </header>
+
+  <!-- KPI Summary Banner -->
+  <div class="max-w-7xl mx-auto px-6 py-6 grid grid-cols-2 sm:grid-cols-4 gap-4">
+    <div class="bg-slate-900/60 border border-slate-800 rounded-xl p-4">
+      <div class="text-xs text-slate-400 font-medium">⭐ 5-Star High Conviction</div>
+      <div id="kpi-5star" class="text-2xl font-bold text-amber-400 mt-1">0</div>
+    </div>
+    <div class="bg-slate-900/60 border border-slate-800 rounded-xl p-4">
+      <div class="text-xs text-slate-400 font-medium">🎯 Narrow CPR Breakouts</div>
+      <div id="kpi-narrow" class="text-2xl font-bold text-cyan-400 mt-1">0</div>
+    </div>
+    <div class="bg-slate-900/60 border border-slate-800 rounded-xl p-4">
+      <div class="text-xs text-slate-400 font-medium">🟢 Triple Bullish Confluence</div>
+      <div id="kpi-bull" class="text-2xl font-bold text-emerald-400 mt-1">0</div>
+    </div>
+    <div class="bg-slate-900/60 border border-slate-800 rounded-xl p-4">
+      <div class="text-xs text-slate-400 font-medium">⚡ Active Liquid Universe</div>
+      <div id="kpi-total" class="text-2xl font-bold text-slate-200 mt-1">0</div>
+    </div>
+  </div>
+
+  <!-- Filters & Controls Bar -->
+  <div class="max-w-7xl mx-auto px-6 mb-6">
+    <div class="bg-slate-900/90 border border-slate-800 rounded-xl p-4 flex flex-wrap items-center justify-between gap-4">
+      
+      <!-- Timeframe Selector -->
+      <div class="flex bg-slate-950 border border-slate-800 rounded-lg p-1 text-xs">
+        <button id="btn-daily" class="tf-btn px-4 py-1.5 rounded-md bg-emerald-600 text-white font-medium" onclick="setTimeframe('daily')">Daily CPR</button>
+        <button id="btn-weekly" class="tf-btn px-4 py-1.5 rounded-md text-slate-400 hover:text-white" onclick="setTimeframe('weekly')">Weekly CPR</button>
+        <button id="btn-monthly" class="tf-btn px-4 py-1.5 rounded-md text-slate-400 hover:text-white" onclick="setTimeframe('monthly')">Monthly CPR</button>
+      </div>
+
+      <!-- Quick Filter Dropdowns -->
+      <div class="flex flex-wrap items-center gap-3 text-xs">
+        <select id="filter-rating" onchange="applyFilters()" class="bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-slate-200 focus:outline-none focus:border-emerald-500">
+          <option value="all">All Star Ratings</option>
+          <option value="5">5-Star Setups Only ⭐⭐⭐⭐⭐</option>
+          <option value="4">4★ and 5★ Setups</option>
+        </select>
+
+        <select id="filter-compression" onchange="applyFilters()" class="bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-slate-200 focus:outline-none focus:border-emerald-500">
+          <option value="all">All CPR Widths</option>
+          <option value="narrow">Narrow & Extreme Narrow (<0.5%)</option>
+          <option value="extreme">Extreme Compression (<40% Avg)</option>
+        </select>
+
+        <select id="filter-bias" onchange="applyFilters()" class="bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-slate-200 focus:outline-none focus:border-emerald-500">
+          <option value="all">All Price Positions</option>
+          <option value="bullish">Above CPR (Bullish > TC)</option>
+          <option value="bearish">Below CPR (Bearish < BC)</option>
+        </select>
+
+        <input type="text" id="search-box" onkeyup="applyFilters()" placeholder="🔍 Search symbol / sector..." class="bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-slate-200 w-48 focus:outline-none focus:border-emerald-500">
+      </div>
+    </div>
+  </div>
+
+  <!-- Data Table Section -->
+  <div class="max-w-7xl mx-auto px-6 mb-12">
+    <div class="bg-slate-900/60 border border-slate-800 rounded-xl overflow-hidden shadow-2xl">
+      <div class="overflow-x-auto">
+        <table class="w-full text-left text-xs">
+          <thead class="bg-slate-950/80 border-b border-slate-800 text-slate-400 uppercase tracking-wider font-semibold">
+            <tr>
+              <th class="px-4 py-3">Stock Symbol</th>
+              <th class="px-4 py-3">Price</th>
+              <th class="px-4 py-3">Rating</th>
+              <th class="px-4 py-3">CPR Width %</th>
+              <th class="px-4 py-3">Compression</th>
+              <th class="px-4 py-3">RVOL</th>
+              <th class="px-4 py-3">RS vs Nifty</th>
+              <th class="px-4 py-3">TC</th>
+              <th class="px-4 py-3">Pivot (P)</th>
+              <th class="px-4 py-3">BC</th>
+              <th class="px-4 py-3">Confluence</th>
+              <th class="px-4 py-3 text-center">Chart</th>
+            </tr>
+          </thead>
+          <tbody id="screener-table-body" class="divide-y divide-slate-800/60">
+            <!-- Dynamic Rows Injected Here -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- Interactive Candlestick Chart Modal -->
+  <div id="chart-modal" class="fixed inset-0 bg-black/80 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4">
+    <div class="bg-slate-900 border border-slate-800 rounded-2xl w-full max-w-4xl overflow-hidden shadow-2xl">
+      <div class="px-6 py-4 border-b border-slate-800 flex items-center justify-between bg-slate-950">
+        <div>
+          <h3 id="modal-title" class="text-base font-bold text-white">Stock Chart</h3>
+          <p id="modal-subtitle" class="text-xs text-slate-400">CPR Levels & Candlestick Price Action</p>
+        </div>
+        <button onclick="closeChartModal()" class="text-slate-400 hover:text-white text-lg font-bold">✕</button>
+      </div>
+      <div id="chart-container" class="w-full h-96 p-4"></div>
+      <div id="modal-levels" class="px-6 py-3 bg-slate-950/90 border-t border-slate-800 flex flex-wrap gap-4 text-xs">
+        <!-- Level badges -->
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
