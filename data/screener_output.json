@@ -1,5 +1,5 @@
 {
-  "updated_at": "01-Oct-2026 05:04 PM IST",
+  "updated_at": "02-Oct-2026 09:43 AM IST",
   "total_scanned": 493,
   "diamond_count": 13,
   "stocks": [
@@ -8,7 +8,7 @@
       "name": "Cupid Ltd.",
       "industry": "Fast Moving Consumer Goods",
       "price": 312.5,
-      "turnover_cr": 711.75,
+      "turnover_cr": 712.1,
       "quant_score": 93,
       "rating": 5,
       "stars": "\u2b50\u2b50\u2b50\u2b50\u2b50",
@@ -18,7 +18,7 @@
       "width_pct": 0.235,
       "comp_ratio": "37%",
       "dist_tc_pct": 0.12,
-      "rvol": 1.11,
+      "rvol": 1.12,
       "rs_score": 47.24,
       "dma_50": 270.3,
       "ema_20": 279.85,
@@ -387,7 +387,7 @@
           "high": 314.3,
           "low": 308.5,
           "close": 312.5,
-          "volume": 25317160
+          "volume": 25539188
         }
       ]
     },
@@ -775,7 +775,7 @@
           "high": 828.55,
           "low": 783.65,
           "close": 805.0,
-          "volume": 3497360
+          "volume": 3497748
         }
       ]
     },
@@ -1163,7 +1163,7 @@
           "high": 1743.1,
           "low": 1692.7,
           "close": 1721.8,
-          "volume": 560219
+          "volume": 560330
         }
       ]
     },
@@ -1551,7 +1551,7 @@
           "high": 1477.5,
           "low": 1428.9,
           "close": 1458.8,
-          "volume": 598630
+          "volume": 598654
         }
       ]
     },
@@ -1939,7 +1939,7 @@
           "high": 2132.0,
           "low": 2034.0,
           "close": 2093.4,
-          "volume": 408349
+          "volume": 408456
         }
       ]
     },
@@ -2327,7 +2327,7 @@
           "high": 1258.9,
           "low": 1180.1,
           "close": 1212.3,
-          "volume": 465859
+          "volume": 465866
         }
       ]
     },
@@ -2715,7 +2715,7 @@
           "high": 318.3,
           "low": 303.05,
           "close": 312.75,
-          "volume": 7910844
+          "volume": 7911815
         }
       ]
     },
@@ -3103,7 +3103,7 @@
           "high": 1554.8,
           "low": 1512.0,
           "close": 1533.0,
-          "volume": 2662773
+          "volume": 2663224
         }
       ]
     },
@@ -3491,7 +3491,7 @@
           "high": 5290.0,
           "low": 5051.0,
           "close": 5168.0,
-          "volume": 862514
+          "volume": 862662
         }
       ]
     },
@@ -3879,7 +3879,7 @@
           "high": 328.7,
           "low": 320.9,
           "close": 325.3,
-          "volume": 3073230
+          "volume": 3073268
         }
       ]
     },
@@ -4267,7 +4267,7 @@
           "high": 428.15,
           "low": 411.35,
           "close": 421.0,
-          "volume": 12667884
+          "volume": 12669050
         }
       ]
     },
@@ -4655,7 +4655,7 @@
           "high": 4673.8,
           "low": 4350.0,
           "close": 4490.5,
-          "volume": 186727
+          "volume": 186749
         }
       ]
     },
@@ -4664,7 +4664,7 @@
       "name": "Eternal Ltd.",
       "industry": "Consumer Services",
       "price": 313.9,
-      "turnover_cr": 597.24,
+      "turnover_cr": 597.39,
       "quant_score": 80,
       "rating": 5,
       "stars": "\u2b50\u2b50\u2b50\u2b50\u2b50",
@@ -5043,7 +5043,7 @@
           "high": 320.4,
           "low": 309.8,
           "close": 313.9,
-          "volume": 29621512
+          "volume": 29716584
         }
       ]
     },
@@ -5431,7 +5431,7 @@
           "high": 3860.0,
           "low": 3756.0,
           "close": 3799.6,
-          "volume": 119214
+          "volume": 119217
         }
       ]
     },
@@ -5819,7 +5819,7 @@
           "high": 1700.7,
           "low": 1654.2,
           "close": 1676.8,
-          "volume": 1074037
+          "volume": 1074057
         }
       ]
     },
@@ -6207,7 +6207,7 @@
           "high": 812.85,
           "low": 772.9,
           "close": 792.15,
-          "volume": 5370115
+          "volume": 5370306
         }
       ]
     },
@@ -6983,7 +6983,7 @@
           "high": 1829.8,
           "low": 1782.8,
           "close": 1802.9,
-          "volume": 106567
+          "volume": 106573
         }
       ]
     },
@@ -7371,7 +7371,7 @@
           "high": 1690.0,
           "low": 1629.0,
           "close": 1656.0,
-          "volume": 1936787
+          "volume": 1936812
         }
       ]
     },
@@ -7759,7 +7759,7 @@
           "high": 22435.0,
           "low": 21720.0,
           "close": 22025.0,
-          "volume": 14327
+          "volume": 14332
         }
       ]
     },
@@ -8147,7 +8147,7 @@
           "high": 1554.2,
           "low": 1518.0,
           "close": 1530.6,
-          "volume": 574231
+          "volume": 574389
         }
       ]
     },
@@ -8535,7 +8535,7 @@
           "high": 666.55,
           "low": 638.0,
           "close": 649.05,
-          "volume": 837735
+          "volume": 838261
         }
       ]
     },
@@ -8923,7 +8923,7 @@
           "high": 2731.3,
           "low": 2539.2,
           "close": 2605.8,
-          "volume": 2309048
+          "volume": 2309126
         }
       ]
     },
@@ -9311,7 +9311,7 @@
           "high": 380.1,
           "low": 370.2,
           "close": 375.05,
-          "volume": 5000982
+          "volume": 5001023
         }
       ]
     },
@@ -9699,7 +9699,7 @@
           "high": 1221.2,
           "low": 1180.3,
           "close": 1200.0,
-          "volume": 2219555
+          "volume": 2219568
         }
       ]
     },
@@ -10087,7 +10087,7 @@
           "high": 849.5,
           "low": 815.7,
           "close": 832.0,
-          "volume": 857902
+          "volume": 857914
         }
       ]
     },
@@ -10863,7 +10863,7 @@
           "high": 59.27,
           "low": 56.73,
           "close": 57.91,
-          "volume": 4374277
+          "volume": 4376261
         }
       ]
     },
@@ -11251,7 +11251,7 @@
           "high": 1256.4,
           "low": 1214.8,
           "close": 1233.0,
-          "volume": 3157989
+          "volume": 3158301
         }
       ]
     },
@@ -11639,7 +11639,7 @@
           "high": 325.4,
           "low": 315.45,
           "close": 319.75,
-          "volume": 3088325
+          "volume": 3088333
         }
       ]
     },
@@ -12415,7 +12415,7 @@
           "high": 1136.4,
           "low": 1072.4,
           "close": 1100.5,
-          "volume": 435169
+          "volume": 435320
         }
       ]
     },
@@ -12803,7 +12803,7 @@
           "high": 671.1,
           "low": 650.55,
           "close": 658.4,
-          "volume": 6263868
+          "volume": 6264045
         }
       ]
     },
@@ -13191,7 +13191,7 @@
           "high": 2027.6,
           "low": 1936.2,
           "close": 2005.1,
-          "volume": 542968
+          "volume": 542969
         }
       ]
     },
@@ -13579,7 +13579,7 @@
           "high": 610.0,
           "low": 574.15,
           "close": 599.9,
-          "volume": 6013638
+          "volume": 6014245
         }
       ]
     },
@@ -13967,7 +13967,7 @@
           "high": 244.89,
           "low": 226.2,
           "close": 239.17,
-          "volume": 22515853
+          "volume": 22516675
         }
       ]
     },
@@ -14355,7 +14355,7 @@
           "high": 238.37,
           "low": 227.1,
           "close": 238.36,
-          "volume": 23036701
+          "volume": 23039457
         }
       ]
     },
@@ -14743,7 +14743,7 @@
           "high": 2183.0,
           "low": 2013.2,
           "close": 2168.3,
-          "volume": 629622
+          "volume": 629630
         }
       ]
     },
@@ -15131,7 +15131,7 @@
           "high": 955.35,
           "low": 889.0,
           "close": 955.35,
-          "volume": 5593999
+          "volume": 5594054
         }
       ]
     },
@@ -15519,7 +15519,7 @@
           "high": 417.8,
           "low": 405.05,
           "close": 411.4,
-          "volume": 5386481
+          "volume": 5387538
         }
       ]
     },
@@ -16295,7 +16295,7 @@
           "high": 1995.5,
           "low": 1930.0,
           "close": 1962.3,
-          "volume": 198720
+          "volume": 198724
         }
       ]
     },
@@ -17071,7 +17071,7 @@
           "high": 8262.0,
           "low": 8035.0,
           "close": 8136.5,
-          "volume": 94931
+          "volume": 94936
         }
       ]
     },
@@ -17459,7 +17459,7 @@
           "high": 154.5,
           "low": 148.5,
           "close": 151.22,
-          "volume": 1744428
+          "volume": 1745429
         }
       ]
     },
@@ -17847,7 +17847,7 @@
           "high": 554.3,
           "low": 527.2,
           "close": 539.3,
-          "volume": 224235
+          "volume": 224276
         }
       ]
     },
@@ -18235,7 +18235,7 @@
           "high": 566.35,
           "low": 547.2,
           "close": 555.05,
-          "volume": 3163613
+          "volume": 3165448
         }
       ]
     },
@@ -18244,7 +18244,7 @@
       "name": "Netweb Technologies India Ltd.",
       "industry": "Information Technology",
       "price": 4520.3,
-      "turnover_cr": 452.42,
+      "turnover_cr": 452.43,
       "quant_score": 67,
       "rating": 4,
       "stars": "\u2b50\u2b50\u2b50\u2b50",
@@ -18623,7 +18623,7 @@
           "high": 4620.0,
           "low": 4463.8,
           "close": 4520.3,
-          "volume": 752433
+          "volume": 752580
         }
       ]
     },
@@ -19011,7 +19011,7 @@
           "high": 93.4,
           "low": 89.05,
           "close": 91.09,
-          "volume": 2097336
+          "volume": 2099127
         }
       ]
     },
@@ -19399,7 +19399,7 @@
           "high": 4100.0,
           "low": 3930.1,
           "close": 4021.0,
-          "volume": 1234361
+          "volume": 1234692
         }
       ]
     },
@@ -19408,7 +19408,7 @@
       "name": "Coal India Ltd.",
       "industry": "Oil Gas & Consumable Fuels",
       "price": 420.4,
-      "turnover_cr": 313.22,
+      "turnover_cr": 313.23,
       "quant_score": 65,
       "rating": 4,
       "stars": "\u2b50\u2b50\u2b50\u2b50",
@@ -19787,7 +19787,7 @@
           "high": 426.35,
           "low": 416.3,
           "close": 420.4,
-          "volume": 7513315
+          "volume": 7514836
         }
       ]
     },
@@ -20175,7 +20175,7 @@
           "high": 2929.8,
           "low": 2841.1,
           "close": 2874.4,
-          "volume": 327669
+          "volume": 327673
         }
       ]
     },
@@ -20563,7 +20563,7 @@
           "high": 129.85,
           "low": 125.35,
           "close": 127.07,
-          "volume": 1020721
+          "volume": 1020731
         }
       ]
     },
@@ -20951,7 +20951,7 @@
           "high": 1132.7,
           "low": 1079.0,
           "close": 1100.5,
-          "volume": 862942
+          "volume": 862948
         }
       ]
     },
@@ -21339,7 +21339,7 @@
           "high": 8186.5,
           "low": 7525.5,
           "close": 7797.0,
-          "volume": 283635
+          "volume": 283715
         }
       ]
     },
@@ -21348,7 +21348,7 @@
       "name": "Nestle India Ltd.",
       "industry": "Fast Moving Consumer Goods",
       "price": 1307.7,
-      "turnover_cr": 144.98,
+      "turnover_cr": 144.99,
       "quant_score": 63,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -21727,7 +21727,7 @@
           "high": 1320.9,
           "low": 1295.0,
           "close": 1307.7,
-          "volume": 1626454
+          "volume": 1626876
         }
       ]
     },
@@ -22115,7 +22115,7 @@
           "high": 2380.9,
           "low": 2301.1,
           "close": 2340.0,
-          "volume": 841434
+          "volume": 841593
         }
       ]
     },
@@ -22503,7 +22503,7 @@
           "high": 1129.0,
           "low": 1083.3,
           "close": 1105.6,
-          "volume": 2249185
+          "volume": 2249380
         }
       ]
     },
@@ -22891,7 +22891,7 @@
           "high": 168.2,
           "low": 161.5,
           "close": 164.76,
-          "volume": 12942502
+          "volume": 12948377
         }
       ]
     },
@@ -23279,7 +23279,7 @@
           "high": 94.81,
           "low": 91.63,
           "close": 93.16,
-          "volume": 15679538
+          "volume": 15683898
         }
       ]
     },
@@ -23288,7 +23288,7 @@
       "name": "Vedanta Ltd.",
       "industry": "Metals & Mining",
       "price": 252.05,
-      "turnover_cr": 173.6,
+      "turnover_cr": 173.61,
       "quant_score": 63,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -23667,7 +23667,7 @@
           "high": 257.2,
           "low": 247.25,
           "close": 252.05,
-          "volume": 10127008
+          "volume": 10131800
         }
       ]
     },
@@ -24055,7 +24055,7 @@
           "high": 81.38,
           "low": 79.53,
           "close": 80.39,
-          "volume": 24433155
+          "volume": 24434109
         }
       ]
     },
@@ -24443,7 +24443,7 @@
           "high": 78.86,
           "low": 76.07,
           "close": 77.4,
-          "volume": 6193553
+          "volume": 6195124
         }
       ]
     },
@@ -24831,7 +24831,7 @@
           "high": 35.55,
           "low": 34.15,
           "close": 34.82,
-          "volume": 8582142
+          "volume": 8582189
         }
       ]
     },
@@ -24840,7 +24840,7 @@
       "name": "Larsen & Toubro Ltd.",
       "industry": "Construction",
       "price": 3693.4,
-      "turnover_cr": 567.11,
+      "turnover_cr": 567.15,
       "quant_score": 63,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -25219,7 +25219,7 @@
           "high": 3737.3,
           "low": 3655.9,
           "close": 3693.4,
-          "volume": 2218837
+          "volume": 2220932
         }
       ]
     },
@@ -25607,7 +25607,7 @@
           "high": 3121.1,
           "low": 3055.0,
           "close": 3084.4,
-          "volume": 524034
+          "volume": 524043
         }
       ]
     },
@@ -25995,7 +25995,7 @@
           "high": 305.05,
           "low": 297.1,
           "close": 300.6,
-          "volume": 5617264
+          "volume": 5618518
         }
       ]
     },
@@ -26383,7 +26383,7 @@
           "high": 113.94,
           "low": 109.62,
           "close": 111.6,
-          "volume": 1955290
+          "volume": 1956465
         }
       ]
     },
@@ -27159,7 +27159,7 @@
           "high": 1774.9,
           "low": 1714.1,
           "close": 1741.4,
-          "volume": 258737
+          "volume": 258740
         }
       ]
     },
@@ -27547,7 +27547,7 @@
           "high": 2624.0,
           "low": 2545.8,
           "close": 2580.0,
-          "volume": 896656
+          "volume": 896919
         }
       ]
     },
@@ -27556,7 +27556,7 @@
       "name": "Oil & Natural Gas Corporation Ltd.",
       "industry": "Oil Gas & Consumable Fuels",
       "price": 222.37,
-      "turnover_cr": 223.47,
+      "turnover_cr": 223.48,
       "quant_score": 63,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -27935,7 +27935,7 @@
           "high": 224.99,
           "low": 220.6,
           "close": 222.37,
-          "volume": 13093822
+          "volume": 13099985
         }
       ]
     },
@@ -27944,7 +27944,7 @@
       "name": "Tata Consultancy Services Ltd.",
       "industry": "Information Technology",
       "price": 2075.0,
-      "turnover_cr": 634.21,
+      "turnover_cr": 634.22,
       "quant_score": 63,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -28323,7 +28323,7 @@
           "high": 2093.9,
           "low": 2045.1,
           "close": 2075.0,
-          "volume": 3427531
+          "volume": 3428501
         }
       ]
     },
@@ -28332,7 +28332,7 @@
       "name": "Godawari Power & Ispat Ltd.",
       "industry": "Capital Goods",
       "price": 215.67,
-      "turnover_cr": 29.98,
+      "turnover_cr": 29.99,
       "quant_score": 63,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -28711,7 +28711,7 @@
           "high": 222.08,
           "low": 210.42,
           "close": 215.67,
-          "volume": 2042072
+          "volume": 2042248
         }
       ]
     },
@@ -29487,7 +29487,7 @@
           "high": 417.5,
           "low": 403.8,
           "close": 409.45,
-          "volume": 2369330
+          "volume": 2369486
         }
       ]
     },
@@ -29875,7 +29875,7 @@
           "high": 1445.5,
           "low": 1388.0,
           "close": 1412.6,
-          "volume": 291585
+          "volume": 291677
         }
       ]
     },
@@ -29884,7 +29884,7 @@
       "name": "Bharat Forge Ltd.",
       "industry": "Automobile and Auto Components",
       "price": 1875.0,
-      "turnover_cr": 161.91,
+      "turnover_cr": 161.95,
       "quant_score": 63,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -30263,7 +30263,7 @@
           "high": 1915.9,
           "low": 1845.2,
           "close": 1875.0,
-          "volume": 1148199
+          "volume": 1151437
         }
       ]
     },
@@ -30651,7 +30651,7 @@
           "high": 506.3,
           "low": 487.45,
           "close": 495.4,
-          "volume": 707148
+          "volume": 707391
         }
       ]
     },
@@ -31039,7 +31039,7 @@
           "high": 1963.1,
           "low": 1911.8,
           "close": 1930.0,
-          "volume": 555488
+          "volume": 555494
         }
       ]
     },
@@ -31427,7 +31427,7 @@
           "high": 4465.5,
           "low": 4196.6,
           "close": 4276.6,
-          "volume": 454101
+          "volume": 454154
         }
       ]
     },
@@ -31815,7 +31815,7 @@
           "high": 1112.2,
           "low": 1068.0,
           "close": 1104.6,
-          "volume": 594959
+          "volume": 594962
         }
       ]
     },
@@ -32203,7 +32203,7 @@
           "high": 2982.0,
           "low": 2825.1,
           "close": 2860.9,
-          "volume": 1334603
+          "volume": 1334621
         }
       ]
     },
@@ -32212,7 +32212,7 @@
       "name": "Aegis Logistics Ltd.",
       "industry": "Oil Gas & Consumable Fuels",
       "price": 1401.1,
-      "turnover_cr": 130.78,
+      "turnover_cr": 130.79,
       "quant_score": 63,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -32591,7 +32591,7 @@
           "high": 1415.7,
           "low": 1332.9,
           "close": 1401.1,
-          "volume": 1061423
+          "volume": 1061975
         }
       ]
     },
@@ -32979,7 +32979,7 @@
           "high": 1263.7,
           "low": 1215.1,
           "close": 1239.7,
-          "volume": 384104
+          "volume": 384105
         }
       ]
     },
@@ -33367,7 +33367,7 @@
           "high": 201.09,
           "low": 196.5,
           "close": 199.04,
-          "volume": 2825203
+          "volume": 2825230
         }
       ]
     },
@@ -33376,7 +33376,7 @@
       "name": "Laurus Labs Ltd.",
       "industry": "Healthcare",
       "price": 1984.0,
-      "turnover_cr": 320.5,
+      "turnover_cr": 320.51,
       "quant_score": 60,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -33755,7 +33755,7 @@
           "high": 2006.9,
           "low": 1952.1,
           "close": 1984.0,
-          "volume": 1459404
+          "volume": 1459687
         }
       ]
     },
@@ -34143,7 +34143,7 @@
           "high": 10879.0,
           "low": 10612.0,
           "close": 10710.0,
-          "volume": 570605
+          "volume": 570684
         }
       ]
     },
@@ -34152,7 +34152,7 @@
       "name": "Nuvama Wealth Management Ltd.",
       "industry": "Financial Services",
       "price": 1701.4,
-      "turnover_cr": 48.12,
+      "turnover_cr": 48.13,
       "quant_score": 60,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -34531,7 +34531,7 @@
           "high": 1738.6,
           "low": 1652.9,
           "close": 1701.4,
-          "volume": 856042
+          "volume": 856086
         }
       ]
     },
@@ -34928,7 +34928,7 @@
       "name": "Mahindra & Mahindra Ltd.",
       "industry": "Automobile and Auto Components",
       "price": 2860.0,
-      "turnover_cr": 591.88,
+      "turnover_cr": 591.91,
       "quant_score": 60,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -35307,7 +35307,7 @@
           "high": 2927.4,
           "low": 2812.0,
           "close": 2860.0,
-          "volume": 5450936
+          "volume": 5453321
         }
       ]
     },
@@ -35316,7 +35316,7 @@
       "name": "Tata Capital Ltd.",
       "industry": "Financial Services",
       "price": 319.3,
-      "turnover_cr": 47.44,
+      "turnover_cr": 47.45,
       "quant_score": 60,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -35695,7 +35695,7 @@
           "high": 327.25,
           "low": 313.55,
           "close": 319.3,
-          "volume": 2464661
+          "volume": 2467983
         }
       ]
     },
@@ -36083,7 +36083,7 @@
           "high": 1009.0,
           "low": 974.2,
           "close": 987.0,
-          "volume": 2487888
+          "volume": 2487890
         }
       ]
     },
@@ -36092,7 +36092,7 @@
       "name": "CG Power and Industrial Solutions Ltd.",
       "industry": "Capital Goods",
       "price": 879.0,
-      "turnover_cr": 207.37,
+      "turnover_cr": 207.38,
       "quant_score": 60,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -36471,7 +36471,7 @@
           "high": 889.9,
           "low": 859.6,
           "close": 879.0,
-          "volume": 4630394
+          "volume": 4633143
         }
       ]
     },
@@ -36480,7 +36480,7 @@
       "name": "Manappuram Finance Ltd.",
       "industry": "Financial Services",
       "price": 308.9,
-      "turnover_cr": 140.26,
+      "turnover_cr": 140.29,
       "quant_score": 60,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -36490,14 +36490,14 @@
       "width_pct": 0.323,
       "comp_ratio": "57%",
       "dist_tc_pct": 0.16,
-      "rvol": 1.68,
+      "rvol": 1.69,
       "rs_score": -9.23,
       "dma_50": 342.0,
       "ema_20": 323.66,
       "confluence": "Triple Bearish \u2744\ufe0f",
       "bias": "Below CPR (Bearish) \ud83d\udd34",
       "relation": "Lower CPR \ud83d\udd3d",
-      "reasons": "Narrow CPR, Triple Bearish (D+W+M), Institutional Volume (1.68x)",
+      "reasons": "Narrow CPR, Triple Bearish (D+W+M), Institutional Volume (1.69x)",
       "daily": {
         "pivot": 309.9,
         "bc": 310.4,
@@ -36859,7 +36859,7 @@
           "high": 317.45,
           "low": 303.35,
           "close": 308.9,
-          "volume": 7637620
+          "volume": 7653852
         }
       ]
     },
@@ -37247,7 +37247,7 @@
           "high": 46995.0,
           "low": 44410.0,
           "close": 45480.0,
-          "volume": 48571
+          "volume": 48572
         }
       ]
     },
@@ -37635,7 +37635,7 @@
           "high": 1128.4,
           "low": 1076.2,
           "close": 1096.2,
-          "volume": 623451
+          "volume": 623533
         }
       ]
     },
@@ -38023,7 +38023,7 @@
           "high": 2196.8,
           "low": 2059.5,
           "close": 2115.7,
-          "volume": 1615811
+          "volume": 1615913
         }
       ]
     },
@@ -38411,7 +38411,7 @@
           "high": 1268.0,
           "low": 1224.6,
           "close": 1239.0,
-          "volume": 343283
+          "volume": 343285
         }
       ]
     },
@@ -38420,7 +38420,7 @@
       "name": "Samvardhana Motherson International Ltd.",
       "industry": "Automobile and Auto Components",
       "price": 157.03,
-      "turnover_cr": 178.83,
+      "turnover_cr": 178.84,
       "quant_score": 60,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -38799,7 +38799,7 @@
           "high": 162.27,
           "low": 153.81,
           "close": 157.03,
-          "volume": 23035578
+          "volume": 23039471
         }
       ]
     },
@@ -39187,7 +39187,7 @@
           "high": 21670.0,
           "low": 20715.0,
           "close": 21505.0,
-          "volume": 70375
+          "volume": 70377
         }
       ]
     },
@@ -39575,7 +39575,7 @@
           "high": 1738.8,
           "low": 1660.0,
           "close": 1671.5,
-          "volume": 304391
+          "volume": 304392
         }
       ]
     },
@@ -39963,7 +39963,7 @@
           "high": 709.3,
           "low": 677.1,
           "close": 695.45,
-          "volume": 862889
+          "volume": 862927
         }
       ]
     },
@@ -39972,7 +39972,7 @@
       "name": "Ather Energy Ltd.",
       "industry": "Automobile and Auto Components",
       "price": 1406.1,
-      "turnover_cr": 525.62,
+      "turnover_cr": 525.64,
       "quant_score": 58,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -40351,7 +40351,7 @@
           "high": 1429.1,
           "low": 1373.6,
           "close": 1406.1,
-          "volume": 4208845
+          "volume": 4210984
         }
       ]
     },
@@ -40739,7 +40739,7 @@
           "high": 1075.7,
           "low": 1027.1,
           "close": 1047.8,
-          "volume": 475305
+          "volume": 475311
         }
       ]
     },
@@ -41127,7 +41127,7 @@
           "high": 594.15,
           "low": 572.05,
           "close": 583.05,
-          "volume": 811806
+          "volume": 812043
         }
       ]
     },
@@ -41903,7 +41903,7 @@
           "high": 724.85,
           "low": 700.0,
           "close": 711.55,
-          "volume": 325159
+          "volume": 325188
         }
       ]
     },
@@ -42291,7 +42291,7 @@
           "high": 3122.2,
           "low": 3083.1,
           "close": 3098.8,
-          "volume": 44274
+          "volume": 44275
         }
       ]
     },
@@ -42679,7 +42679,7 @@
           "high": 133.85,
           "low": 129.75,
           "close": 131.62,
-          "volume": 1826576
+          "volume": 1826999
         }
       ]
     },
@@ -43067,7 +43067,7 @@
           "high": 4079.4,
           "low": 3945.5,
           "close": 4007.0,
-          "volume": 479217
+          "volume": 479221
         }
       ]
     },
@@ -43464,7 +43464,7 @@
       "name": "State Bank of India",
       "industry": "Financial Services",
       "price": 954.1,
-      "turnover_cr": 768.44,
+      "turnover_cr": 768.46,
       "quant_score": 55,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -43843,7 +43843,7 @@
           "high": 965.4,
           "low": 945.8,
           "close": 954.1,
-          "volume": 7386565
+          "volume": 7390452
         }
       ]
     },
@@ -44231,7 +44231,7 @@
           "high": 383.15,
           "low": 370.85,
           "close": 376.35,
-          "volume": 259692
+          "volume": 259700
         }
       ]
     },
@@ -44253,7 +44253,7 @@
       "rvol": 0.83,
       "rs_score": -5.55,
       "dma_50": 6449.24,
-      "ema_20": 6137.24,
+      "ema_20": 6137.23,
       "confluence": "Triple Bearish \u2744\ufe0f",
       "bias": "Below CPR (Bearish) \ud83d\udd34",
       "relation": "Lower CPR \ud83d\udd3d",
@@ -44619,7 +44619,7 @@
           "high": 5944.5,
           "low": 5798.0,
           "close": 5861.0,
-          "volume": 22383
+          "volume": 22403
         }
       ]
     },
@@ -45395,7 +45395,7 @@
           "high": 1359.4,
           "low": 1333.4,
           "close": 1344.0,
-          "volume": 921701
+          "volume": 921789
         }
       ]
     },
@@ -45783,7 +45783,7 @@
           "high": 1203.9,
           "low": 1166.1,
           "close": 1182.8,
-          "volume": 146952
+          "volume": 146983
         }
       ]
     },
@@ -46559,7 +46559,7 @@
           "high": 8131.0,
           "low": 7883.0,
           "close": 7990.0,
-          "volume": 463647
+          "volume": 463691
         }
       ]
     },
@@ -46568,7 +46568,7 @@
       "name": "Firstsource Solutions Ltd.",
       "industry": "Services",
       "price": 250.4,
-      "turnover_cr": 68.0,
+      "turnover_cr": 68.01,
       "quant_score": 55,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -46947,7 +46947,7 @@
           "high": 255.0,
           "low": 247.0,
           "close": 250.4,
-          "volume": 645625
+          "volume": 646270
         }
       ]
     },
@@ -47335,7 +47335,7 @@
           "high": 1070.6,
           "low": 1026.4,
           "close": 1046.0,
-          "volume": 768167
+          "volume": 768278
         }
       ]
     },
@@ -47723,7 +47723,7 @@
           "high": 1632.9,
           "low": 1566.6,
           "close": 1595.8,
-          "volume": 495987
+          "volume": 496337
         }
       ]
     },
@@ -48111,7 +48111,7 @@
           "high": 1610.0,
           "low": 1550.0,
           "close": 1576.1,
-          "volume": 251276
+          "volume": 251378
         }
       ]
     },
@@ -48499,7 +48499,7 @@
           "high": 653.0,
           "low": 626.3,
           "close": 638.0,
-          "volume": 244126
+          "volume": 244199
         }
       ]
     },
@@ -48508,7 +48508,7 @@
       "name": "Suzlon Energy Ltd.",
       "industry": "Capital Goods",
       "price": 38.91,
-      "turnover_cr": 202.86,
+      "turnover_cr": 202.87,
       "quant_score": 55,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -48887,7 +48887,7 @@
           "high": 39.63,
           "low": 38.4,
           "close": 38.91,
-          "volume": 53206433
+          "volume": 53247107
         }
       ]
     },
@@ -49275,7 +49275,7 @@
           "high": 263.2,
           "low": 252.65,
           "close": 257.2,
-          "volume": 851674
+          "volume": 851720
         }
       ]
     },
@@ -49663,7 +49663,7 @@
           "high": 1315.9,
           "low": 1265.6,
           "close": 1287.0,
-          "volume": 727825
+          "volume": 727942
         }
       ]
     },
@@ -49672,7 +49672,7 @@
       "name": "Tata Chemicals Ltd.",
       "industry": "Chemicals",
       "price": 607.8,
-      "turnover_cr": 227.89,
+      "turnover_cr": 227.9,
       "quant_score": 55,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -50051,7 +50051,7 @@
           "high": 619.0,
           "low": 600.15,
           "close": 607.8,
-          "volume": 1216206
+          "volume": 1216894
         }
       ]
     },
@@ -50060,7 +50060,7 @@
       "name": "Emami Ltd.",
       "industry": "Fast Moving Consumer Goods",
       "price": 372.65,
-      "turnover_cr": 99.26,
+      "turnover_cr": 99.27,
       "quant_score": 55,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -50439,7 +50439,7 @@
           "high": 377.35,
           "low": 370.2,
           "close": 372.65,
-          "volume": 2237488
+          "volume": 2237638
         }
       ]
     },
@@ -50827,7 +50827,7 @@
           "high": 1205.0,
           "low": 1160.3,
           "close": 1178.9,
-          "volume": 221676
+          "volume": 221740
         }
       ]
     },
@@ -51215,7 +51215,7 @@
           "high": 450.85,
           "low": 436.35,
           "close": 442.0,
-          "volume": 877673
+          "volume": 877730
         }
       ]
     },
@@ -51603,7 +51603,7 @@
           "high": 10661.0,
           "low": 10263.0,
           "close": 10420.0,
-          "volume": 194016
+          "volume": 194062
         }
       ]
     },
@@ -51991,7 +51991,7 @@
           "high": 123.8,
           "low": 117.71,
           "close": 120.17,
-          "volume": 5921934
+          "volume": 5922570
         }
       ]
     },
@@ -52379,7 +52379,7 @@
           "high": 2903.6,
           "low": 2739.8,
           "close": 2806.6,
-          "volume": 312620
+          "volume": 312645
         }
       ]
     },
@@ -52767,7 +52767,7 @@
           "high": 409.45,
           "low": 392.5,
           "close": 397.95,
-          "volume": 2794870
+          "volume": 2795102
         }
       ]
     },
@@ -53155,7 +53155,7 @@
           "high": 694.5,
           "low": 674.5,
           "close": 691.15,
-          "volume": 5044045
+          "volume": 5044066
         }
       ]
     },
@@ -53543,7 +53543,7 @@
           "high": 447.2,
           "low": 427.95,
           "close": 432.55,
-          "volume": 1085498
+          "volume": 1085604
         }
       ]
     },
@@ -53931,7 +53931,7 @@
           "high": 17868.0,
           "low": 16955.0,
           "close": 17648.0,
-          "volume": 138357
+          "volume": 138360
         }
       ]
     },
@@ -54319,7 +54319,7 @@
           "high": 226.65,
           "low": 217.3,
           "close": 218.69,
-          "volume": 6218903
+          "volume": 6218981
         }
       ]
     },
@@ -54707,7 +54707,7 @@
           "high": 897.1,
           "low": 852.5,
           "close": 861.65,
-          "volume": 1043942
+          "volume": 1044003
         }
       ]
     },
@@ -55095,7 +55095,7 @@
           "high": 361.5,
           "low": 340.95,
           "close": 357.45,
-          "volume": 3430761
+          "volume": 3430947
         }
       ]
     },
@@ -55104,7 +55104,7 @@
       "name": "Syrma SGS Technology Ltd.",
       "industry": "Capital Goods",
       "price": 1717.9,
-      "turnover_cr": 508.75,
+      "turnover_cr": 508.76,
       "quant_score": 55,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -55483,7 +55483,7 @@
           "high": 1822.6,
           "low": 1710.1,
           "close": 1717.9,
-          "volume": 1874010
+          "volume": 1874242
         }
       ]
     },
@@ -55871,7 +55871,7 @@
           "high": 30.83,
           "low": 30.07,
           "close": 30.38,
-          "volume": 2773743
+          "volume": 2774243
         }
       ]
     },
@@ -56259,7 +56259,7 @@
           "high": 22275.0,
           "low": 21355.0,
           "close": 21900.0,
-          "volume": 59305
+          "volume": 59306
         }
       ]
     },
@@ -56278,7 +56278,7 @@
       "width_pct": 0.269,
       "comp_ratio": "56%",
       "dist_tc_pct": 0.13,
-      "rvol": 1.37,
+      "rvol": 1.38,
       "rs_score": -16.19,
       "dma_50": 3533.85,
       "ema_20": 3299.19,
@@ -56647,7 +56647,7 @@
           "high": 3164.4,
           "low": 3046.2,
           "close": 3092.8,
-          "volume": 333334
+          "volume": 333513
         }
       ]
     },
@@ -56656,7 +56656,7 @@
       "name": "India Cements Ltd.",
       "industry": "Construction Materials",
       "price": 295.15,
-      "turnover_cr": 5.45,
+      "turnover_cr": 5.46,
       "quant_score": 53,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -57035,7 +57035,7 @@
           "high": 303.0,
           "low": 290.25,
           "close": 295.15,
-          "volume": 231618
+          "volume": 231935
         }
       ]
     },
@@ -57423,7 +57423,7 @@
           "high": 1274.6,
           "low": 1223.9,
           "close": 1242.5,
-          "volume": 1323510
+          "volume": 1324382
         }
       ]
     },
@@ -57445,7 +57445,7 @@
       "rvol": 1.1,
       "rs_score": -5.94,
       "dma_50": 3254.46,
-      "ema_20": 3276.66,
+      "ema_20": 3276.65,
       "confluence": "Triple Bearish \u2744\ufe0f",
       "bias": "Below CPR (Bearish) \ud83d\udd34",
       "relation": "Lower CPR \ud83d\udd3d",
@@ -58199,7 +58199,7 @@
           "high": 33.1,
           "low": 31.39,
           "close": 31.98,
-          "volume": 26238165
+          "volume": 26250953
         }
       ]
     },
@@ -58587,7 +58587,7 @@
           "high": 1966.8,
           "low": 1880.8,
           "close": 1943.2,
-          "volume": 323964
+          "volume": 323967
         }
       ]
     },
@@ -58596,7 +58596,7 @@
       "name": "Vedanta Iron and Steel Ltd.",
       "industry": "Metals & Mining",
       "price": 31.17,
-      "turnover_cr": 65.41,
+      "turnover_cr": 65.42,
       "quant_score": 53,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -58975,7 +58975,7 @@
           "high": 32.34,
           "low": 30.69,
           "close": 31.17,
-          "volume": 23059414
+          "volume": 23116178
         }
       ]
     },
@@ -59363,7 +59363,7 @@
           "high": 1831.0,
           "low": 1763.6,
           "close": 1826.0,
-          "volume": 3418803
+          "volume": 3419070
         }
       ]
     },
@@ -59751,7 +59751,7 @@
           "high": 555.55,
           "low": 522.5,
           "close": 528.5,
-          "volume": 7829469
+          "volume": 7831270
         }
       ]
     },
@@ -60139,7 +60139,7 @@
           "high": 319.2,
           "low": 297.0,
           "close": 301.55,
-          "volume": 3922796
+          "volume": 3922858
         }
       ]
     },
@@ -60148,7 +60148,7 @@
       "name": "Steel Authority of India Ltd.",
       "industry": "Metals & Mining",
       "price": 174.5,
-      "turnover_cr": 272.57,
+      "turnover_cr": 272.58,
       "quant_score": 52,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -60527,7 +60527,7 @@
           "high": 181.67,
           "low": 170.67,
           "close": 174.5,
-          "volume": 26194118
+          "volume": 26206885
         }
       ]
     },
@@ -60915,7 +60915,7 @@
           "high": 4394.2,
           "low": 4234.8,
           "close": 4237.0,
-          "volume": 426751
+          "volume": 426809
         }
       ]
     },
@@ -60924,7 +60924,7 @@
       "name": "IDBI Bank Ltd.",
       "industry": "Financial Services",
       "price": 86.57,
-      "turnover_cr": 141.17,
+      "turnover_cr": 141.18,
       "quant_score": 52,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -61303,7 +61303,7 @@
           "high": 87.39,
           "low": 81.32,
           "close": 86.57,
-          "volume": 26699391
+          "volume": 26713864
         }
       ]
     },
@@ -61691,7 +61691,7 @@
           "high": 2571.5,
           "low": 2465.0,
           "close": 2518.2,
-          "volume": 377790
+          "volume": 377828
         }
       ]
     },
@@ -62079,7 +62079,7 @@
           "high": 1256.0,
           "low": 1228.9,
           "close": 1243.1,
-          "volume": 3429976
+          "volume": 3430282
         }
       ]
     },
@@ -62467,7 +62467,7 @@
           "high": 2124.0,
           "low": 2035.6,
           "close": 2083.9,
-          "volume": 783994
+          "volume": 784540
         }
       ]
     },
@@ -62855,7 +62855,7 @@
           "high": 1236.6,
           "low": 1189.0,
           "close": 1215.3,
-          "volume": 320770
+          "volume": 321029
         }
       ]
     },
@@ -63243,7 +63243,7 @@
           "high": 1670.0,
           "low": 1605.2,
           "close": 1630.9,
-          "volume": 153950
+          "volume": 153955
         }
       ]
     },
@@ -63631,7 +63631,7 @@
           "high": 232.0,
           "low": 221.67,
           "close": 230.04,
-          "volume": 4776392
+          "volume": 4776469
         }
       ]
     },
@@ -64795,7 +64795,7 @@
           "high": 718.0,
           "low": 673.95,
           "close": 679.45,
-          "volume": 1056422
+          "volume": 1056525
         }
       ]
     },
@@ -65183,7 +65183,7 @@
           "high": 555.3,
           "low": 533.95,
           "close": 544.65,
-          "volume": 403784
+          "volume": 403885
         }
       ]
     },
@@ -65571,7 +65571,7 @@
           "high": 143.06,
           "low": 136.8,
           "close": 139.98,
-          "volume": 3955470
+          "volume": 3955477
         }
       ]
     },
@@ -65959,7 +65959,7 @@
           "high": 41.71,
           "low": 40.15,
           "close": 40.95,
-          "volume": 7086447
+          "volume": 7092056
         }
       ]
     },
@@ -65968,7 +65968,7 @@
       "name": "Jio Financial Services Ltd.",
       "industry": "Financial Services",
       "price": 212.5,
-      "turnover_cr": 255.15,
+      "turnover_cr": 255.18,
       "quant_score": 45,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -66347,7 +66347,7 @@
           "high": 216.2,
           "low": 208.5,
           "close": 212.5,
-          "volume": 28048522
+          "volume": 28082023
         }
       ]
     },
@@ -67511,7 +67511,7 @@
           "high": 321.35,
           "low": 313.75,
           "close": 318.2,
-          "volume": 11278303
+          "volume": 11278668
         }
       ]
     },
@@ -67908,7 +67908,7 @@
       "name": "Lemon Tree Hotels Ltd.",
       "industry": "Consumer Services",
       "price": 107.67,
-      "turnover_cr": 39.64,
+      "turnover_cr": 39.65,
       "quant_score": 45,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -68287,7 +68287,7 @@
           "high": 111.6,
           "low": 104.25,
           "close": 107.67,
-          "volume": 32190974
+          "volume": 32197118
         }
       ]
     },
@@ -68675,7 +68675,7 @@
           "high": 1298.0,
           "low": 1260.3,
           "close": 1276.1,
-          "volume": 6354606
+          "volume": 6355094
         }
       ]
     },
@@ -69451,7 +69451,7 @@
           "high": 622.85,
           "low": 606.15,
           "close": 613.0,
-          "volume": 126659
+          "volume": 126719
         }
       ]
     },
@@ -69848,7 +69848,7 @@
       "name": "Bharti Airtel Ltd.",
       "industry": "Telecommunication",
       "price": 1741.1,
-      "turnover_cr": 946.05,
+      "turnover_cr": 946.44,
       "quant_score": 45,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -69858,7 +69858,7 @@
       "width_pct": 0.189,
       "comp_ratio": "55%",
       "dist_tc_pct": 0.09,
-      "rvol": 1.02,
+      "rvol": 1.03,
       "rs_score": -8.2,
       "dma_50": 1883.5,
       "ema_20": 1814.74,
@@ -70227,7 +70227,7 @@
           "high": 1765.8,
           "low": 1726.3,
           "close": 1741.1,
-          "volume": 5564970
+          "volume": 5609657
         }
       ]
     },
@@ -70615,7 +70615,7 @@
           "high": 384.7,
           "low": 370.0,
           "close": 376.25,
-          "volume": 9497158
+          "volume": 9498411
         }
       ]
     },
@@ -71003,7 +71003,7 @@
           "high": 1641.0,
           "low": 1590.1,
           "close": 1620.3,
-          "volume": 60776
+          "volume": 60779
         }
       ]
     },
@@ -71391,7 +71391,7 @@
           "high": 231.0,
           "low": 223.28,
           "close": 226.4,
-          "volume": 1566337
+          "volume": 1566543
         }
       ]
     },
@@ -71779,7 +71779,7 @@
           "high": 279.45,
           "low": 267.95,
           "close": 272.8,
-          "volume": 731652
+          "volume": 731886
         }
       ]
     },
@@ -72167,7 +72167,7 @@
           "high": 5016.2,
           "low": 4878.0,
           "close": 4929.9,
-          "volume": 592281
+          "volume": 592514
         }
       ]
     },
@@ -72555,7 +72555,7 @@
           "high": 317.95,
           "low": 308.4,
           "close": 311.95,
-          "volume": 247905
+          "volume": 247930
         }
       ]
     },
@@ -72943,7 +72943,7 @@
           "high": 21.17,
           "low": 20.51,
           "close": 20.75,
-          "volume": 80590072
+          "volume": 80611659
         }
       ]
     },
@@ -73331,7 +73331,7 @@
           "high": 2115.6,
           "low": 2031.2,
           "close": 2064.0,
-          "volume": 648110
+          "volume": 648362
         }
       ]
     },
@@ -73719,7 +73719,7 @@
           "high": 677.75,
           "low": 658.7,
           "close": 665.15,
-          "volume": 1430818
+          "volume": 1431438
         }
       ]
     },
@@ -74107,7 +74107,7 @@
           "high": 714.5,
           "low": 690.05,
           "close": 698.8,
-          "volume": 648099
+          "volume": 648223
         }
       ]
     },
@@ -74116,7 +74116,7 @@
       "name": "Bandhan Bank Ltd.",
       "industry": "Financial Services",
       "price": 176.0,
-      "turnover_cr": 239.25,
+      "turnover_cr": 239.26,
       "quant_score": 45,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -74495,7 +74495,7 @@
           "high": 180.93,
           "low": 172.86,
           "close": 176.0,
-          "volume": 11128990
+          "volume": 11142144
         }
       ]
     },
@@ -74514,7 +74514,7 @@
       "width_pct": 0.339,
       "comp_ratio": "55%",
       "dist_tc_pct": 0.17,
-      "rvol": 0.87,
+      "rvol": 0.88,
       "rs_score": -19.06,
       "dma_50": 1250.73,
       "ema_20": 1166.37,
@@ -74883,7 +74883,7 @@
           "high": 1115.7,
           "low": 1071.2,
           "close": 1087.9,
-          "volume": 928602
+          "volume": 928850
         }
       ]
     },
@@ -75271,7 +75271,7 @@
           "high": 745.4,
           "low": 728.35,
           "close": 732.7,
-          "volume": 764828
+          "volume": 764831
         }
       ]
     },
@@ -75659,7 +75659,7 @@
           "high": 381.45,
           "low": 367.5,
           "close": 372.35,
-          "volume": 624406
+          "volume": 624895
         }
       ]
     },
@@ -76047,7 +76047,7 @@
           "high": 1078.6,
           "low": 1040.6,
           "close": 1053.2,
-          "volume": 638932
+          "volume": 638996
         }
       ]
     },
@@ -76056,7 +76056,7 @@
       "name": "Afcons Infrastructure Ltd.",
       "industry": "Construction",
       "price": 242.39,
-      "turnover_cr": 69.68,
+      "turnover_cr": 69.69,
       "quant_score": 45,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -76435,7 +76435,7 @@
           "high": 248.01,
           "low": 240.25,
           "close": 242.39,
-          "volume": 427201
+          "volume": 428586
         }
       ]
     },
@@ -76444,7 +76444,7 @@
       "name": "Persistent Systems Ltd.",
       "industry": "Information Technology",
       "price": 5367.0,
-      "turnover_cr": 214.69,
+      "turnover_cr": 214.7,
       "quant_score": 45,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -76823,7 +76823,7 @@
           "high": 5396.0,
           "low": 5250.5,
           "close": 5367.0,
-          "volume": 506172
+          "volume": 506268
         }
       ]
     },
@@ -77211,7 +77211,7 @@
           "high": 859.75,
           "low": 830.6,
           "close": 855.75,
-          "volume": 648812
+          "volume": 648832
         }
       ]
     },
@@ -77608,7 +77608,7 @@
       "name": "Pine Labs Ltd.",
       "industry": "Financial Services",
       "price": 167.59,
-      "turnover_cr": 823.28,
+      "turnover_cr": 823.29,
       "quant_score": 45,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -77987,7 +77987,7 @@
           "high": 174.7,
           "low": 165.25,
           "close": 167.59,
-          "volume": 13914600
+          "volume": 13924916
         }
       ]
     },
@@ -77996,7 +77996,7 @@
       "name": "Piramal Pharma Ltd.",
       "industry": "Healthcare",
       "price": 197.97,
-      "turnover_cr": 81.67,
+      "turnover_cr": 81.68,
       "quant_score": 45,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -78375,7 +78375,7 @@
           "high": 206.7,
           "low": 195.73,
           "close": 197.97,
-          "volume": 3573096
+          "volume": 3574489
         }
       ]
     },
@@ -78384,7 +78384,7 @@
       "name": "Kotak Mahindra Bank Ltd.",
       "industry": "Financial Services",
       "price": 418.35,
-      "turnover_cr": 677.13,
+      "turnover_cr": 677.15,
       "quant_score": 45,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -78763,7 +78763,7 @@
           "high": 435.6,
           "low": 416.05,
           "close": 418.35,
-          "volume": 76628600
+          "volume": 76637247
         }
       ]
     },
@@ -78772,7 +78772,7 @@
       "name": "Multi Commodity Exchange of India Ltd.",
       "industry": "Financial Services",
       "price": 3204.0,
-      "turnover_cr": 589.32,
+      "turnover_cr": 589.33,
       "quant_score": 45,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -79151,7 +79151,7 @@
           "high": 3331.3,
           "low": 3193.6,
           "close": 3204.0,
-          "volume": 2002301
+          "volume": 2002629
         }
       ]
     },
@@ -79160,7 +79160,7 @@
       "name": "Chennai Petroleum Corporation Ltd.",
       "industry": "Oil Gas & Consumable Fuels",
       "price": 1346.4,
-      "turnover_cr": 261.6,
+      "turnover_cr": 261.61,
       "quant_score": 45,
       "rating": 3,
       "stars": "\u2b50\u2b50\u2b50",
@@ -79539,7 +79539,7 @@
           "high": 1434.9,
           "low": 1330.7,
           "close": 1346.4,
-          "volume": 1838369
+          "volume": 1838710
         }
       ]
     },
@@ -79927,7 +79927,7 @@
           "high": 1233.9,
           "low": 1194.9,
           "close": 1206.2,
-          "volume": 2607686
+          "volume": 2607818
         }
       ]
     },
@@ -80315,395 +80315,7 @@
           "high": 2799.0,
           "low": 2724.8,
           "close": 2771.1,
-          "volume": 73406
-        }
-      ]
-    },
-    {
-      "symbol": "EMBASSY",
-      "name": "EMBASSY OFFICE PARKS REIT",
-      "industry": "Realty",
-      "price": 434.42,
-      "turnover_cr": 46.01,
-      "quant_score": 40,
-      "rating": 2,
-      "stars": "\u2b50\u2b50",
-      "tier": "Bronze",
-      "is_diamond": false,
-      "compression": "Wide \u2194\ufe0f",
-      "width_pct": 0.246,
-      "comp_ratio": "177%",
-      "dist_tc_pct": 0.12,
-      "rvol": 2.44,
-      "rs_score": -0.67,
-      "dma_50": 438.04,
-      "ema_20": 438.33,
-      "confluence": "Triple Bearish \u2744\ufe0f",
-      "bias": "Below CPR (Bearish) \ud83d\udd34",
-      "relation": "Overlapping",
-      "reasons": "Triple Bearish (D+W+M), Institutional Volume (2.44x)",
-      "daily": {
-        "pivot": 435.49,
-        "bc": 436.02,
-        "tc": 434.96,
-        "cpr_top": 436.02,
-        "cpr_bot": 434.96,
-        "width_pct": 0.246,
-        "r1": 438.93,
-        "s1": 430.98,
-        "r2": 443.44,
-        "s2": 427.54,
-        "r3": 446.88,
-        "s3": 423.03
-      },
-      "weekly": {
-        "pivot": 435.47,
-        "bc": 436.0,
-        "tc": 434.95,
-        "cpr_top": 436.0,
-        "cpr_bot": 434.95,
-        "width_pct": 0.242,
-        "r1": 438.95,
-        "s1": 430.95,
-        "r2": 443.47,
-        "s2": 427.47,
-        "r3": 446.95,
-        "s3": 422.95
-      },
-      "monthly": {
-        "pivot": 437.76,
-        "bc": 439.43,
-        "tc": 436.09,
-        "cpr_top": 439.43,
-        "cpr_bot": 436.09,
-        "width_pct": 0.762,
-        "r1": 443.51,
-        "s1": 428.66,
-        "r2": 452.61,
-        "s2": 422.91,
-        "r3": 458.36,
-        "s3": 413.81
-      },
-      "candles": [
-        {
-          "time": "2026-08-06",
-          "open": 437.95,
-          "high": 443.5,
-          "low": 437.01,
-          "close": 440.95,
-          "volume": 382111
-        },
-        {
-          "time": "2026-08-07",
-          "open": 442.0,
-          "high": 443.38,
-          "low": 439.03,
-          "close": 441.28,
-          "volume": 209346
-        },
-        {
-          "time": "2026-08-10",
-          "open": 441.85,
-          "high": 441.85,
-          "low": 437.0,
-          "close": 439.27,
-          "volume": 955560
-        },
-        {
-          "time": "2026-08-11",
-          "open": 438.9,
-          "high": 445.35,
-          "low": 437.5,
-          "close": 439.95,
-          "volume": 471974
-        },
-        {
-          "time": "2026-08-12",
-          "open": 441.0,
-          "high": 443.8,
-          "low": 438.4,
-          "close": 439.47,
-          "volume": 433095
-        },
-        {
-          "time": "2026-08-13",
-          "open": 440.99,
-          "high": 449.95,
-          "low": 440.13,
-          "close": 449.01,
-          "volume": 489617
-        },
-        {
-          "time": "2026-08-14",
-          "open": 449.01,
-          "high": 453.25,
-          "low": 447.5,
-          "close": 452.61,
-          "volume": 1020183
-        },
-        {
-          "time": "2026-08-17",
-          "open": 439.99,
-          "high": 441.3,
-          "low": 435.0,
-          "close": 440.29,
-          "volume": 61565199
-        },
-        {
-          "time": "2026-08-18",
-          "open": 440.29,
-          "high": 441.25,
-          "low": 438.5,
-          "close": 440.0,
-          "volume": 1466185
-        },
-        {
-          "time": "2026-08-19",
-          "open": 440.0,
-          "high": 440.99,
-          "low": 435.11,
-          "close": 435.68,
-          "volume": 763400
-        },
-        {
-          "time": "2026-08-20",
-          "open": 435.5,
-          "high": 436.99,
-          "low": 432.21,
-          "close": 435.24,
-          "volume": 889073
-        },
-        {
-          "time": "2026-08-21",
-          "open": 434.95,
-          "high": 437.1,
-          "low": 434.0,
-          "close": 436.08,
-          "volume": 1558888
-        },
-        {
-          "time": "2026-08-24",
-          "open": 437.0,
-          "high": 438.68,
-          "low": 434.67,
-          "close": 435.46,
-          "volume": 642875
-        },
-        {
-          "time": "2026-08-25",
-          "open": 436.0,
-          "high": 438.5,
-          "low": 434.75,
-          "close": 435.22,
-          "volume": 758060
-        },
-        {
-          "time": "2026-08-26",
-          "open": 436.0,
-          "high": 441.9,
-          "low": 435.21,
-          "close": 439.92,
-          "volume": 755966
-        },
-        {
-          "time": "2026-08-27",
-          "open": 438.92,
-          "high": 439.8,
-          "low": 435.86,
-          "close": 437.19,
-          "volume": 638662
-        },
-        {
-          "time": "2026-08-28",
-          "open": 437.99,
-          "high": 439.5,
-          "low": 435.86,
-          "close": 437.22,
-          "volume": 438338
-        },
-        {
-          "time": "2026-08-31",
-          "open": 439.4,
-          "high": 440.0,
-          "low": 436.1,
-          "close": 438.48,
-          "volume": 1208586
-        },
-        {
-          "time": "2026-09-01",
-          "open": 438.7,
-          "high": 440.0,
-          "low": 437.42,
-          "close": 438.73,
-          "volume": 247838
-        },
-        {
-          "time": "2026-09-02",
-          "open": 438.52,
-          "high": 439.49,
-          "low": 435.0,
-          "close": 435.23,
-          "volume": 372037
-        },
-        {
-          "time": "2026-09-03",
-          "open": 435.98,
-          "high": 446.85,
-          "low": 435.98,
-          "close": 438.57,
-          "volume": 967048
-        },
-        {
-          "time": "2026-09-04",
-          "open": 439.97,
-          "high": 439.97,
-          "low": 435.11,
-          "close": 438.69,
-          "volume": 641632
-        },
-        {
-          "time": "2026-09-07",
-          "open": 440.0,
-          "high": 441.0,
-          "low": 438.0,
-          "close": 438.88,
-          "volume": 309177
-        },
-        {
-          "time": "2026-09-08",
-          "open": 440.97,
-          "high": 440.97,
-          "low": 439.11,
-          "close": 439.87,
-          "volume": 293614
-        },
-        {
-          "time": "2026-09-09",
-          "open": 438.0,
-          "high": 440.89,
-          "low": 438.0,
-          "close": 439.63,
-          "volume": 215948
-        },
-        {
-          "time": "2026-09-10",
-          "open": 439.6,
-          "high": 440.39,
-          "low": 436.1,
-          "close": 438.98,
-          "volume": 450803
-        },
-        {
-          "time": "2026-09-11",
-          "open": 440.0,
-          "high": 442.0,
-          "low": 437.01,
-          "close": 439.07,
-          "volume": 417287
-        },
-        {
-          "time": "2026-09-14",
-          "open": 439.07,
-          "high": 439.07,
-          "low": 439.07,
-          "close": 439.07,
-          "volume": 0
-        },
-        {
-          "time": "2026-09-15",
-          "open": 435.51,
-          "high": 440.0,
-          "low": 435.51,
-          "close": 439.48,
-          "volume": 489706
-        },
-        {
-          "time": "2026-09-16",
-          "open": 439.95,
-          "high": 440.0,
-          "low": 436.5,
-          "close": 439.58,
-          "volume": 554410
-        },
-        {
-          "time": "2026-09-17",
-          "open": 439.5,
-          "high": 440.0,
-          "low": 438.31,
-          "close": 439.46,
-          "volume": 626311
-        },
-        {
-          "time": "2026-09-18",
-          "open": 439.46,
-          "high": 446.6,
-          "low": 437.5,
-          "close": 441.07,
-          "volume": 5129525
-        },
-        {
-          "time": "2026-09-21",
-          "open": 440.55,
-          "high": 440.55,
-          "low": 438.1,
-          "close": 438.97,
-          "volume": 499292
-        },
-        {
-          "time": "2026-09-22",
-          "open": 438.97,
-          "high": 443.0,
-          "low": 438.14,
-          "close": 440.97,
-          "volume": 573076
-        },
-        {
-          "time": "2026-09-23",
-          "open": 440.97,
-          "high": 440.98,
-          "low": 436.22,
-          "close": 437.44,
-          "volume": 373146
-        },
-        {
-          "time": "2026-09-24",
-          "open": 437.8,
-          "high": 440.0,
-          "low": 436.4,
-          "close": 439.77,
-          "volume": 594992
-        },
-        {
-          "time": "2026-09-25",
-          "open": 439.77,
-          "high": 439.8,
-          "low": 436.5,
-          "close": 437.66,
-          "volume": 370503
-        },
-        {
-          "time": "2026-09-28",
-          "open": 439.8,
-          "high": 440.0,
-          "low": 435.06,
-          "close": 437.66,
-          "volume": 718282
-        },
-        {
-          "time": "2026-09-29",
-          "open": 435.7,
-          "high": 440.0,
-          "low": 432.0,
-          "close": 437.71,
-          "volume": 5374016
-        },
-        {
-          "time": "2026-09-30",
-          "open": 437.71,
-          "high": 440.0,
-          "low": 432.05,
-          "close": 434.42,
-          "volume": 2583104
+          "volume": 73407
         }
       ]
     },
@@ -81091,7 +80703,7 @@
           "high": 371.6,
           "low": 356.3,
           "close": 362.25,
-          "volume": 3892030
+          "volume": 3893265
         }
       ]
     },
@@ -81479,7 +81091,7 @@
           "high": 1306.4,
           "low": 1266.2,
           "close": 1279.8,
-          "volume": 219202
+          "volume": 219253
         }
       ]
     },
@@ -81867,7 +81479,7 @@
           "high": 466.25,
           "low": 446.8,
           "close": 454.1,
-          "volume": 1528645
+          "volume": 1528758
         }
       ]
     },
@@ -82255,7 +81867,7 @@
           "high": 1828.7,
           "low": 1792.6,
           "close": 1801.0,
-          "volume": 2314614
+          "volume": 2314700
         }
       ]
     },
@@ -82643,7 +82255,7 @@
           "high": 453.65,
           "low": 437.95,
           "close": 443.4,
-          "volume": 1560768
+          "volume": 1560787
         }
       ]
     },
@@ -83031,7 +82643,7 @@
           "high": 2321.1,
           "low": 2269.7,
           "close": 2308.1,
-          "volume": 1134010
+          "volume": 1134071
         }
       ]
     },
@@ -83419,7 +83031,7 @@
           "high": 432.15,
           "low": 408.2,
           "close": 417.6,
-          "volume": 886377
+          "volume": 886386
         }
       ]
     },
@@ -83807,7 +83419,7 @@
           "high": 2173.0,
           "low": 2077.0,
           "close": 2111.1,
-          "volume": 571612
+          "volume": 571755
         }
       ]
     },
@@ -84583,7 +84195,7 @@
           "high": 2405.2,
           "low": 2307.3,
           "close": 2340.0,
-          "volume": 471014
+          "volume": 471021
         }
       ]
     },
@@ -84592,7 +84204,7 @@
       "name": "Ashok Leyland Ltd.",
       "industry": "Capital Goods",
       "price": 150.48,
-      "turnover_cr": 175.31,
+      "turnover_cr": 175.32,
       "quant_score": 40,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -84971,7 +84583,7 @@
           "high": 154.86,
           "low": 148.5,
           "close": 150.48,
-          "volume": 20571128
+          "volume": 20574319
         }
       ]
     },
@@ -85359,7 +84971,7 @@
           "high": 2078.6,
           "low": 2002.0,
           "close": 2024.0,
-          "volume": 1795668
+          "volume": 1795808
         }
       ]
     },
@@ -85747,7 +85359,7 @@
           "high": 158.87,
           "low": 151.31,
           "close": 156.34,
-          "volume": 3668988
+          "volume": 3669838
         }
       ]
     },
@@ -86135,7 +85747,7 @@
           "high": 137.3,
           "low": 130.0,
           "close": 132.48,
-          "volume": 6812019
+          "volume": 6813037
         }
       ]
     },
@@ -86523,7 +86135,7 @@
           "high": 1500.9,
           "low": 1445.0,
           "close": 1486.1,
-          "volume": 1381142
+          "volume": 1381292
         }
       ]
     },
@@ -86911,7 +86523,7 @@
           "high": 2494.9,
           "low": 2431.7,
           "close": 2486.2,
-          "volume": 352331
+          "volume": 352530
         }
       ]
     },
@@ -86920,7 +86532,7 @@
       "name": "Force Motors Ltd.",
       "industry": "Automobile and Auto Components",
       "price": 16800.0,
-      "turnover_cr": 108.86,
+      "turnover_cr": 108.87,
       "quant_score": 40,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -87299,7 +86911,7 @@
           "high": 17389.0,
           "low": 16531.0,
           "close": 16800.0,
-          "volume": 117452
+          "volume": 117482
         }
       ]
     },
@@ -87308,7 +86920,7 @@
       "name": "Bajaj Housing Finance Ltd.",
       "industry": "Financial Services",
       "price": 82.91,
-      "turnover_cr": 25.9,
+      "turnover_cr": 25.91,
       "quant_score": 40,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -87687,7 +87299,7 @@
           "high": 83.19,
           "low": 81.06,
           "close": 82.91,
-          "volume": 5600204
+          "volume": 5602067
         }
       ]
     },
@@ -88075,7 +87687,7 @@
           "high": 352.8,
           "low": 344.0,
           "close": 345.0,
-          "volume": 5753665
+          "volume": 5754484
         }
       ]
     },
@@ -88463,7 +88075,7 @@
           "high": 134.1,
           "low": 131.2,
           "close": 131.34,
-          "volume": 12238038
+          "volume": 12239747
         }
       ]
     },
@@ -88472,7 +88084,7 @@
       "name": "Adani Power Ltd.",
       "industry": "Power",
       "price": 196.21,
-      "turnover_cr": 336.96,
+      "turnover_cr": 336.97,
       "quant_score": 40,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -88851,7 +88463,7 @@
           "high": 203.36,
           "low": 193.1,
           "close": 196.21,
-          "volume": 33536582
+          "volume": 33548439
         }
       ]
     },
@@ -89239,7 +88851,7 @@
           "high": 7146.0,
           "low": 6840.0,
           "close": 6920.0,
-          "volume": 817438
+          "volume": 817452
         }
       ]
     },
@@ -89627,7 +89239,7 @@
           "high": 5220.0,
           "low": 5110.0,
           "close": 5220.0,
-          "volume": 290969
+          "volume": 291015
         }
       ]
     },
@@ -89636,7 +89248,7 @@
       "name": "ITC Ltd.",
       "industry": "Fast Moving Consumer Goods",
       "price": 255.9,
-      "turnover_cr": 272.35,
+      "turnover_cr": 272.36,
       "quant_score": 40,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -89646,14 +89258,14 @@
       "width_pct": 0.718,
       "comp_ratio": "202%",
       "dist_tc_pct": 0.36,
-      "rvol": 1.54,
+      "rvol": 1.55,
       "rs_score": -9.17,
       "dma_50": 271.1,
       "ema_20": 264.73,
       "confluence": "Triple Bearish \u2744\ufe0f",
       "bias": "Below CPR (Bearish) \ud83d\udd34",
       "relation": "Lower CPR \ud83d\udd3d",
-      "reasons": "Triple Bearish (D+W+M), Institutional Volume (1.54x)",
+      "reasons": "Triple Bearish (D+W+M), Institutional Volume (1.55x)",
       "daily": {
         "pivot": 257.75,
         "bc": 258.68,
@@ -90015,7 +89627,7 @@
           "high": 262.7,
           "low": 254.65,
           "close": 255.9,
-          "volume": 16440881
+          "volume": 16447266
         }
       ]
     },
@@ -90403,7 +90015,7 @@
           "high": 114.4,
           "low": 108.5,
           "close": 110.25,
-          "volume": 20850133
+          "volume": 20851568
         }
       ]
     },
@@ -90412,7 +90024,7 @@
       "name": "Grasim Industries Ltd.",
       "industry": "Construction Materials",
       "price": 2962.0,
-      "turnover_cr": 225.92,
+      "turnover_cr": 225.93,
       "quant_score": 40,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -90791,7 +90403,7 @@
           "high": 3045.0,
           "low": 2944.4,
           "close": 2962.0,
-          "volume": 1385134
+          "volume": 1385746
         }
       ]
     },
@@ -91179,7 +90791,7 @@
           "high": 1730.3,
           "low": 1674.8,
           "close": 1721.6,
-          "volume": 3329762
+          "volume": 3329860
         }
       ]
     },
@@ -91567,7 +91179,7 @@
           "high": 1913.1,
           "low": 1830.0,
           "close": 1849.7,
-          "volume": 256795
+          "volume": 256983
         }
       ]
     },
@@ -91589,7 +91201,7 @@
       "rvol": 1.77,
       "rs_score": -11.02,
       "dma_50": 6526.92,
-      "ema_20": 6281.61,
+      "ema_20": 6281.62,
       "confluence": "Triple Bearish \u2744\ufe0f",
       "bias": "Below CPR (Bearish) \ud83d\udd34",
       "relation": "Overlapping",
@@ -91955,7 +91567,7 @@
           "high": 6466.0,
           "low": 6187.0,
           "close": 6247.5,
-          "volume": 42488
+          "volume": 42491
         }
       ]
     },
@@ -92343,7 +91955,7 @@
           "high": 531.7,
           "low": 499.25,
           "close": 509.0,
-          "volume": 5985781
+          "volume": 5986497
         }
       ]
     },
@@ -92731,7 +92343,7 @@
           "high": 167.94,
           "low": 159.51,
           "close": 161.54,
-          "volume": 3134908
+          "volume": 3136559
         }
       ]
     },
@@ -93507,7 +93119,7 @@
           "high": 209.96,
           "low": 201.1,
           "close": 202.7,
-          "volume": 4534928
+          "volume": 4535645
         }
       ]
     },
@@ -93895,7 +93507,7 @@
           "high": 336.7,
           "low": 316.5,
           "close": 322.1,
-          "volume": 1124907
+          "volume": 1125207
         }
       ]
     },
@@ -94283,7 +93895,7 @@
           "high": 324.95,
           "low": 316.0,
           "close": 324.95,
-          "volume": 7907117
+          "volume": 7907193
         }
       ]
     },
@@ -94292,7 +93904,7 @@
       "name": "Transformers And Rectifiers (India) Ltd.",
       "industry": "Capital Goods",
       "price": 280.8,
-      "turnover_cr": 102.51,
+      "turnover_cr": 102.52,
       "quant_score": 40,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -94671,7 +94283,7 @@
           "high": 298.6,
           "low": 271.1,
           "close": 280.8,
-          "volume": 57279503
+          "volume": 57280414
         }
       ]
     },
@@ -95059,7 +94671,7 @@
           "high": 2265.0,
           "low": 2160.1,
           "close": 2250.2,
-          "volume": 1178135
+          "volume": 1178274
         }
       ]
     },
@@ -95447,7 +95059,7 @@
           "high": 1389.6,
           "low": 1309.1,
           "close": 1326.4,
-          "volume": 7266278
+          "volume": 7267118
         }
       ]
     },
@@ -95456,7 +95068,7 @@
       "name": "Tata Steel Ltd.",
       "industry": "Metals & Mining",
       "price": 178.0,
-      "turnover_cr": 467.88,
+      "turnover_cr": 467.9,
       "quant_score": 40,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -95835,7 +95447,7 @@
           "high": 186.55,
           "low": 175.75,
           "close": 178.0,
-          "volume": 47647155
+          "volume": 47659952
         }
       ]
     },
@@ -95844,7 +95456,7 @@
       "name": "Infosys Ltd.",
       "industry": "Information Technology",
       "price": 1035.0,
-      "turnover_cr": 957.09,
+      "turnover_cr": 957.63,
       "quant_score": 40,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -95854,14 +95466,14 @@
       "width_pct": 1.168,
       "comp_ratio": "319%",
       "dist_tc_pct": 0.58,
-      "rvol": 1.63,
+      "rvol": 1.64,
       "rs_score": -3.09,
       "dma_50": 1102.02,
       "ema_20": 1043.68,
       "confluence": "Triple Bullish \ud83d\udd25",
       "bias": "Above CPR (Bullish) \ud83d\udfe2",
       "relation": "Higher CPR \ud83d\udd3c",
-      "reasons": "Triple Bullish (D+W+M), Institutional Volume (1.63x)",
+      "reasons": "Triple Bullish (D+W+M), Institutional Volume (1.64x)",
       "daily": {
         "pivot": 1023.05,
         "bc": 1017.08,
@@ -96223,7 +95835,7 @@
           "high": 1035.0,
           "low": 999.15,
           "close": 1035.0,
-          "volume": 15061214
+          "volume": 15166446
         }
       ]
     },
@@ -96611,7 +96223,7 @@
           "high": 2336.0,
           "low": 2230.0,
           "close": 2241.0,
-          "volume": 154782
+          "volume": 154904
         }
       ]
     },
@@ -96620,7 +96232,7 @@
       "name": "Siemens Energy India Ltd.",
       "industry": "Capital Goods",
       "price": 3334.0,
-      "turnover_cr": 142.87,
+      "turnover_cr": 142.88,
       "quant_score": 40,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -96999,7 +96611,7 @@
           "high": 3358.0,
           "low": 3187.0,
           "close": 3334.0,
-          "volume": 1649502
+          "volume": 1649842
         }
       ]
     },
@@ -97008,7 +96620,7 @@
       "name": "Maruti Suzuki India Ltd.",
       "industry": "Automobile and Auto Components",
       "price": 11386.0,
-      "turnover_cr": 433.28,
+      "turnover_cr": 433.29,
       "quant_score": 40,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -97387,7 +96999,7 @@
           "high": 11907.0,
           "low": 11305.0,
           "close": 11386.0,
-          "volume": 885527
+          "volume": 885820
         }
       ]
     },
@@ -97775,7 +97387,7 @@
           "high": 1170.0,
           "low": 1099.1,
           "close": 1111.0,
-          "volume": 788521
+          "volume": 788650
         }
       ]
     },
@@ -98551,7 +98163,7 @@
           "high": 1294.3,
           "low": 1195.5,
           "close": 1275.4,
-          "volume": 1444902
+          "volume": 1444982
         }
       ]
     },
@@ -98560,7 +98172,7 @@
       "name": "Bajaj Auto Ltd.",
       "industry": "Automobile and Auto Components",
       "price": 10045.0,
-      "turnover_cr": 255.46,
+      "turnover_cr": 255.47,
       "quant_score": 40,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -98939,7 +98551,7 @@
           "high": 10714.0,
           "low": 9900.0,
           "close": 10045.0,
-          "volume": 1491210
+          "volume": 1491300
         }
       ]
     },
@@ -99327,7 +98939,7 @@
           "high": 1883.8,
           "low": 1767.0,
           "close": 1776.8,
-          "volume": 982421
+          "volume": 982427
         }
       ]
     },
@@ -99336,7 +98948,7 @@
       "name": "PB Fintech Ltd.",
       "industry": "Financial Services",
       "price": 980.0,
-      "turnover_cr": 695.44,
+      "turnover_cr": 695.51,
       "quant_score": 40,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -99715,7 +99327,7 @@
           "high": 1058.4,
           "low": 963.9,
           "close": 980.0,
-          "volume": 14047939
+          "volume": 14061779
         }
       ]
     },
@@ -100103,7 +99715,7 @@
           "high": 33.98,
           "low": 33.07,
           "close": 33.53,
-          "volume": 16221116
+          "volume": 16228437
         }
       ]
     },
@@ -100491,7 +100103,7 @@
           "high": 120.13,
           "low": 116.51,
           "close": 118.36,
-          "volume": 13949398
+          "volume": 13953325
         }
       ]
     },
@@ -100879,7 +100491,7 @@
           "high": 100.5,
           "low": 98.42,
           "close": 99.5,
-          "volume": 11787626
+          "volume": 11791052
         }
       ]
     },
@@ -101267,7 +100879,7 @@
           "high": 4812.3,
           "low": 4737.0,
           "close": 4778.0,
-          "volume": 362663
+          "volume": 362699
         }
       ]
     },
@@ -101655,7 +101267,7 @@
           "high": 758.25,
           "low": 734.65,
           "close": 747.4,
-          "volume": 509090
+          "volume": 509131
         }
       ]
     },
@@ -102043,7 +101655,7 @@
           "high": 493.0,
           "low": 475.1,
           "close": 485.0,
-          "volume": 1851165
+          "volume": 1851516
         }
       ]
     },
@@ -102431,7 +102043,7 @@
           "high": 271.85,
           "low": 261.15,
           "close": 267.05,
-          "volume": 1465967
+          "volume": 1466021
         }
       ]
     },
@@ -102819,7 +102431,7 @@
           "high": 964.8,
           "low": 945.0,
           "close": 957.0,
-          "volume": 1829128
+          "volume": 1829307
         }
       ]
     },
@@ -103595,7 +103207,7 @@
           "high": 2108.0,
           "low": 2048.9,
           "close": 2083.5,
-          "volume": 326454
+          "volume": 326468
         }
       ]
     },
@@ -103983,7 +103595,7 @@
           "high": 1346.9,
           "low": 1316.5,
           "close": 1335.1,
-          "volume": 1003559
+          "volume": 1003620
         }
       ]
     },
@@ -104371,7 +103983,7 @@
           "high": 219.8,
           "low": 212.0,
           "close": 216.51,
-          "volume": 803529
+          "volume": 803646
         }
       ]
     },
@@ -104759,7 +104371,7 @@
           "high": 962.0,
           "low": 934.65,
           "close": 944.25,
-          "volume": 148201
+          "volume": 148204
         }
       ]
     },
@@ -104768,7 +104380,7 @@
       "name": "PCBL Chemical Ltd.",
       "industry": "Chemicals",
       "price": 321.5,
-      "turnover_cr": 56.49,
+      "turnover_cr": 56.5,
       "quant_score": 37,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -105147,7 +104759,7 @@
           "high": 331.65,
           "low": 315.75,
           "close": 321.5,
-          "volume": 878495
+          "volume": 878765
         }
       ]
     },
@@ -105156,7 +104768,7 @@
       "name": "Solar Industries India Ltd.",
       "industry": "Chemicals",
       "price": 19400.0,
-      "turnover_cr": 502.81,
+      "turnover_cr": 502.82,
       "quant_score": 37,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -105535,7 +105147,7 @@
           "high": 19673.0,
           "low": 18786.0,
           "close": 19400.0,
-          "volume": 204766
+          "volume": 204788
         }
       ]
     },
@@ -106311,7 +105923,7 @@
           "high": 809.95,
           "low": 774.65,
           "close": 803.05,
-          "volume": 317449
+          "volume": 317480
         }
       ]
     },
@@ -106699,7 +106311,7 @@
           "high": 606.6,
           "low": 577.0,
           "close": 583.8,
-          "volume": 1821150
+          "volume": 1821159
         }
       ]
     },
@@ -107087,7 +106699,7 @@
           "high": 113.38,
           "low": 109.37,
           "close": 109.57,
-          "volume": 11358210
+          "volume": 11365686
         }
       ]
     },
@@ -107475,7 +107087,7 @@
           "high": 216.99,
           "low": 203.33,
           "close": 209.48,
-          "volume": 21390050
+          "volume": 21390228
         }
       ]
     },
@@ -107484,7 +107096,7 @@
       "name": "Asian Paints Ltd.",
       "industry": "Consumer Durables",
       "price": 2407.0,
-      "turnover_cr": 127.58,
+      "turnover_cr": 127.59,
       "quant_score": 35,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -107863,7 +107475,7 @@
           "high": 2420.0,
           "low": 2377.0,
           "close": 2407.0,
-          "volume": 1005439
+          "volume": 1005836
         }
       ]
     },
@@ -108251,7 +107863,7 @@
           "high": 1158.0,
           "low": 1123.7,
           "close": 1145.7,
-          "volume": 2547339
+          "volume": 2547369
         }
       ]
     },
@@ -108639,7 +108251,7 @@
           "high": 3378.8,
           "low": 3312.0,
           "close": 3360.6,
-          "volume": 290247
+          "volume": 290287
         }
       ]
     },
@@ -109027,7 +108639,7 @@
           "high": 2360.0,
           "low": 2279.3,
           "close": 2331.0,
-          "volume": 972519
+          "volume": 972522
         }
       ]
     },
@@ -109415,7 +109027,7 @@
           "high": 131.12,
           "low": 127.45,
           "close": 130.06,
-          "volume": 6750070
+          "volume": 6751497
         }
       ]
     },
@@ -109803,7 +109415,7 @@
           "high": 2319.0,
           "low": 2211.6,
           "close": 2242.7,
-          "volume": 719277
+          "volume": 719348
         }
       ]
     },
@@ -110191,7 +109803,7 @@
           "high": 825.55,
           "low": 782.65,
           "close": 795.85,
-          "volume": 735770
+          "volume": 735809
         }
       ]
     },
@@ -110579,7 +110191,7 @@
           "high": 2535.0,
           "low": 2476.1,
           "close": 2535.0,
-          "volume": 427862
+          "volume": 427905
         }
       ]
     },
@@ -110588,7 +110200,7 @@
       "name": "Reliance Industries Ltd.",
       "industry": "Oil Gas & Consumable Fuels",
       "price": 1167.7,
-      "turnover_cr": 1382.94,
+      "turnover_cr": 1383.55,
       "quant_score": 33,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -110598,7 +110210,7 @@
       "width_pct": 0.265,
       "comp_ratio": "85%",
       "dist_tc_pct": 0.13,
-      "rvol": 1.41,
+      "rvol": 1.42,
       "rs_score": -10.71,
       "dma_50": 1279.77,
       "ema_20": 1233.41,
@@ -110967,7 +110579,7 @@
           "high": 1183.9,
           "low": 1160.8,
           "close": 1167.7,
-          "volume": 16667234
+          "volume": 16771221
         }
       ]
     },
@@ -110976,7 +110588,7 @@
       "name": "Power Grid Corporation of India Ltd.",
       "industry": "Power",
       "price": 254.55,
-      "turnover_cr": 243.82,
+      "turnover_cr": 243.83,
       "quant_score": 33,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -111355,7 +110967,7 @@
           "high": 259.0,
           "low": 252.35,
           "close": 254.55,
-          "volume": 10974555
+          "volume": 10976701
         }
       ]
     },
@@ -111743,7 +111355,7 @@
           "high": 357.15,
           "low": 346.4,
           "close": 350.15,
-          "volume": 4222289
+          "volume": 4222986
         }
       ]
     },
@@ -112131,7 +111743,7 @@
           "high": 3880.0,
           "low": 3781.4,
           "close": 3813.0,
-          "volume": 652201
+          "volume": 652283
         }
       ]
     },
@@ -112519,7 +112131,7 @@
           "high": 244.66,
           "low": 232.65,
           "close": 237.5,
-          "volume": 3754312
+          "volume": 3756358
         }
       ]
     },
@@ -113295,7 +112907,7 @@
           "high": 1486.9,
           "low": 1456.8,
           "close": 1464.0,
-          "volume": 867211
+          "volume": 867267
         }
       ]
     },
@@ -113683,7 +113295,7 @@
           "high": 229.95,
           "low": 220.36,
           "close": 223.93,
-          "volume": 2250048
+          "volume": 2250251
         }
       ]
     },
@@ -114071,7 +113683,7 @@
           "high": 320.95,
           "low": 313.05,
           "close": 315.1,
-          "volume": 10089386
+          "volume": 10094465
         }
       ]
     },
@@ -114459,7 +114071,7 @@
           "high": 2653.0,
           "low": 2581.3,
           "close": 2601.4,
-          "volume": 123075
+          "volume": 123076
         }
       ]
     },
@@ -114468,7 +114080,7 @@
       "name": "Power Finance Corporation Ltd.",
       "industry": "Financial Services",
       "price": 318.0,
-      "turnover_cr": 270.51,
+      "turnover_cr": 270.52,
       "quant_score": 33,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -114847,7 +114459,7 @@
           "high": 326.5,
           "low": 313.35,
           "close": 318.0,
-          "volume": 9772916
+          "volume": 9777829
         }
       ]
     },
@@ -115235,7 +114847,7 @@
           "high": 685.35,
           "low": 672.3,
           "close": 674.55,
-          "volume": 341440
+          "volume": 341622
         }
       ]
     },
@@ -115623,7 +115235,7 @@
           "high": 202.45,
           "low": 194.05,
           "close": 197.0,
-          "volume": 6244520
+          "volume": 6247340
         }
       ]
     },
@@ -116011,7 +115623,7 @@
           "high": 732.95,
           "low": 712.3,
           "close": 718.0,
-          "volume": 4023865
+          "volume": 4023940
         }
       ]
     },
@@ -116020,7 +115632,7 @@
       "name": "ICICI Bank Ltd.",
       "industry": "Financial Services",
       "price": 1310.6,
-      "turnover_cr": 1169.51,
+      "turnover_cr": 1170.71,
       "quant_score": 33,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -116030,7 +115642,7 @@
       "width_pct": 0.433,
       "comp_ratio": "170%",
       "dist_tc_pct": 0.22,
-      "rvol": 1.45,
+      "rvol": 1.47,
       "rs_score": -5.68,
       "dma_50": 1398.77,
       "ema_20": 1348.53,
@@ -116399,7 +116011,7 @@
           "high": 1329.9,
           "low": 1308.4,
           "close": 1310.6,
-          "volume": 12979589
+          "volume": 13163495
         }
       ]
     },
@@ -116787,7 +116399,7 @@
           "high": 23.35,
           "low": 22.81,
           "close": 22.93,
-          "volume": 3787379
+          "volume": 3788182
         }
       ]
     },
@@ -117175,7 +116787,7 @@
           "high": 32.76,
           "low": 31.18,
           "close": 31.75,
-          "volume": 4957969
+          "volume": 4959413
         }
       ]
     },
@@ -117197,7 +116809,7 @@
       "rvol": 1.36,
       "rs_score": -4.01,
       "dma_50": 32440.62,
-      "ema_20": 31392.97,
+      "ema_20": 31392.98,
       "confluence": "Triple Bullish \ud83d\udd25",
       "bias": "Above CPR (Bullish) \ud83d\udfe2",
       "relation": "Higher CPR \ud83d\udd3c",
@@ -117563,7 +117175,7 @@
           "high": 31615.0,
           "low": 30520.0,
           "close": 31290.0,
-          "volume": 145136
+          "volume": 145146
         }
       ]
     },
@@ -117951,7 +117563,7 @@
           "high": 1619.7,
           "low": 1563.2,
           "close": 1580.0,
-          "volume": 1699903
+          "volume": 1699959
         }
       ]
     },
@@ -118339,7 +117951,7 @@
           "high": 2903.7,
           "low": 2772.0,
           "close": 2816.8,
-          "volume": 2099992
+          "volume": 2100334
         }
       ]
     },
@@ -118727,7 +118339,7 @@
           "high": 1786.0,
           "low": 1716.0,
           "close": 1737.8,
-          "volume": 2157254
+          "volume": 2157928
         }
       ]
     },
@@ -119115,7 +118727,7 @@
           "high": 1121.5,
           "low": 1079.1,
           "close": 1092.0,
-          "volume": 1090148
+          "volume": 1090171
         }
       ]
     },
@@ -119124,7 +118736,7 @@
       "name": "BSE Ltd.",
       "industry": "Financial Services",
       "price": 3046.0,
-      "turnover_cr": 1628.35,
+      "turnover_cr": 1628.4,
       "quant_score": 33,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -119503,7 +119115,7 @@
           "high": 3139.0,
           "low": 3000.0,
           "close": 3046.0,
-          "volume": 6269900
+          "volume": 6273089
         }
       ]
     },
@@ -119891,7 +119503,7 @@
           "high": 143.9,
           "low": 139.33,
           "close": 142.79,
-          "volume": 2346159
+          "volume": 2346741
         }
       ]
     },
@@ -120279,7 +119891,7 @@
           "high": 78.92,
           "low": 76.51,
           "close": 77.06,
-          "volume": 12758090
+          "volume": 12764829
         }
       ]
     },
@@ -120676,7 +120288,7 @@
       "name": "Titan Company Ltd.",
       "industry": "Consumer Durables",
       "price": 4515.7,
-      "turnover_cr": 268.45,
+      "turnover_cr": 268.46,
       "quant_score": 33,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -121055,7 +120667,7 @@
           "high": 4621.8,
           "low": 4491.0,
           "close": 4515.7,
-          "volume": 694025
+          "volume": 694098
         }
       ]
     },
@@ -121064,7 +120676,7 @@
       "name": "L&T Finance Ltd.",
       "industry": "Financial Services",
       "price": 264.35,
-      "turnover_cr": 156.77,
+      "turnover_cr": 156.78,
       "quant_score": 33,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -121443,7 +121055,7 @@
           "high": 271.8,
           "low": 261.75,
           "close": 264.35,
-          "volume": 7093752
+          "volume": 7097076
         }
       ]
     },
@@ -121831,7 +121443,7 @@
           "high": 1227.6,
           "low": 1176.6,
           "close": 1213.1,
-          "volume": 86759
+          "volume": 86762
         }
       ]
     },
@@ -122219,7 +121831,7 @@
           "high": 76.97,
           "low": 73.71,
           "close": 74.64,
-          "volume": 17075337
+          "volume": 17077400
         }
       ]
     },
@@ -122607,7 +122219,7 @@
           "high": 605.75,
           "low": 574.8,
           "close": 584.65,
-          "volume": 435052
+          "volume": 435205
         }
       ]
     },
@@ -122616,7 +122228,7 @@
       "name": "HDFC Bank Ltd.",
       "industry": "Financial Services",
       "price": 721.2,
-      "turnover_cr": 2046.73,
+      "turnover_cr": 2047.61,
       "quant_score": 33,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -122626,7 +122238,7 @@
       "width_pct": 0.651,
       "comp_ratio": "168%",
       "dist_tc_pct": 0.32,
-      "rvol": 1.31,
+      "rvol": 1.32,
       "rs_score": -12.58,
       "dma_50": 724.57,
       "ema_20": 721.66,
@@ -122995,7 +122607,7 @@
           "high": 721.3,
           "low": 707.1,
           "close": 721.2,
-          "volume": 37147457
+          "volume": 37389857
         }
       ]
     },
@@ -123383,7 +122995,7 @@
           "high": 509.4,
           "low": 484.5,
           "close": 492.0,
-          "volume": 1989056
+          "volume": 1989750
         }
       ]
     },
@@ -123771,7 +123383,7 @@
           "high": 163.3,
           "low": 157.05,
           "close": 158.51,
-          "volume": 2342841
+          "volume": 2346443
         }
       ]
     },
@@ -124159,7 +123771,7 @@
           "high": 505.75,
           "low": 479.8,
           "close": 487.65,
-          "volume": 1342152
+          "volume": 1342310
         }
       ]
     },
@@ -124547,7 +124159,7 @@
           "high": 496.65,
           "low": 476.1,
           "close": 481.1,
-          "volume": 1011887
+          "volume": 1012842
         }
       ]
     },
@@ -124935,7 +124547,7 @@
           "high": 975.0,
           "low": 936.0,
           "close": 945.0,
-          "volume": 5599173
+          "volume": 5599670
         }
       ]
     },
@@ -125323,7 +124935,7 @@
           "high": 6737.5,
           "low": 6431.0,
           "close": 6500.0,
-          "volume": 133525
+          "volume": 133557
         }
       ]
     },
@@ -125711,7 +125323,7 @@
           "high": 3280.0,
           "low": 3165.0,
           "close": 3267.8,
-          "volume": 80170
+          "volume": 80220
         }
       ]
     },
@@ -126099,7 +125711,7 @@
           "high": 1517.0,
           "low": 1444.0,
           "close": 1459.6,
-          "volume": 962268
+          "volume": 962569
         }
       ]
     },
@@ -126108,7 +125720,7 @@
       "name": "UPL Ltd.",
       "industry": "Chemicals",
       "price": 516.8,
-      "turnover_cr": 109.02,
+      "turnover_cr": 109.03,
       "quant_score": 33,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -126487,7 +126099,7 @@
           "high": 537.65,
           "low": 511.2,
           "close": 516.8,
-          "volume": 2465186
+          "volume": 2466891
         }
       ]
     },
@@ -126496,7 +126108,7 @@
       "name": "REC Ltd.",
       "industry": "Financial Services",
       "price": 287.75,
-      "turnover_cr": 183.93,
+      "turnover_cr": 183.94,
       "quant_score": 33,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -126875,7 +126487,7 @@
           "high": 298.2,
           "low": 286.2,
           "close": 287.75,
-          "volume": 9064727
+          "volume": 9069239
         }
       ]
     },
@@ -127263,7 +126875,7 @@
           "high": 999.0,
           "low": 942.5,
           "close": 991.7,
-          "volume": 282003
+          "volume": 282008
         }
       ]
     },
@@ -128039,7 +127651,395 @@
           "high": 287.5,
           "low": 283.45,
           "close": 285.5,
-          "volume": 1678501
+          "volume": 1678508
+        }
+      ]
+    },
+    {
+      "symbol": "BIRET",
+      "name": "Brookfield India Real Estate Trust",
+      "industry": "Realty",
+      "price": 330.25,
+      "turnover_cr": 20.52,
+      "quant_score": 30,
+      "rating": 2,
+      "stars": "\u2b50\u2b50",
+      "tier": "Bronze",
+      "is_diamond": false,
+      "compression": "Extreme Narrow \ud83d\udd25",
+      "width_pct": 0.012,
+      "comp_ratio": "9%",
+      "dist_tc_pct": 0.01,
+      "rvol": 1.0,
+      "rs_score": -0.59,
+      "dma_50": 339.44,
+      "ema_20": 337.44,
+      "confluence": "Neutral / Mixed \u2696\ufe0f",
+      "bias": "Above CPR (Bullish) \ud83d\udfe2",
+      "relation": "Lower CPR \ud83d\udd3d",
+      "reasons": "Extreme 30D Squeeze",
+      "daily": {
+        "pivot": 330.21,
+        "bc": 330.19,
+        "tc": 330.23,
+        "cpr_top": 330.23,
+        "cpr_bot": 330.19,
+        "width_pct": 0.012,
+        "r1": 334.89,
+        "s1": 325.57,
+        "r2": 339.53,
+        "s2": 320.89,
+        "r3": 344.21,
+        "s3": 316.25
+      },
+      "weekly": {
+        "pivot": 331.56,
+        "bc": 332.21,
+        "tc": 330.9,
+        "cpr_top": 332.21,
+        "cpr_bot": 330.9,
+        "width_pct": 0.394,
+        "r1": 337.58,
+        "s1": 324.22,
+        "r2": 344.92,
+        "s2": 318.2,
+        "r3": 350.94,
+        "s3": 310.86
+      },
+      "monthly": {
+        "pivot": 330.21,
+        "bc": 330.19,
+        "tc": 330.23,
+        "cpr_top": 330.23,
+        "cpr_bot": 330.19,
+        "width_pct": 0.012,
+        "r1": 334.89,
+        "s1": 325.57,
+        "r2": 339.53,
+        "s2": 320.89,
+        "r3": 344.21,
+        "s3": 316.25
+      },
+      "candles": [
+        {
+          "time": "2026-08-07",
+          "open": 339.41,
+          "high": 340.36,
+          "low": 337.46,
+          "close": 339.4,
+          "volume": 195835
+        },
+        {
+          "time": "2026-08-10",
+          "open": 340.99,
+          "high": 341.61,
+          "low": 339.67,
+          "close": 341.07,
+          "volume": 289236
+        },
+        {
+          "time": "2026-08-11",
+          "open": 342.21,
+          "high": 342.21,
+          "low": 337.64,
+          "close": 339.38,
+          "volume": 290462
+        },
+        {
+          "time": "2026-08-12",
+          "open": 341.18,
+          "high": 341.33,
+          "low": 337.94,
+          "close": 340.08,
+          "volume": 434265
+        },
+        {
+          "time": "2026-08-13",
+          "open": 342.0,
+          "high": 346.95,
+          "low": 341.5,
+          "close": 346.23,
+          "volume": 371917
+        },
+        {
+          "time": "2026-08-14",
+          "open": 346.5,
+          "high": 346.5,
+          "low": 342.0,
+          "close": 345.07,
+          "volume": 232066
+        },
+        {
+          "time": "2026-08-17",
+          "open": 346.0,
+          "high": 346.44,
+          "low": 343.5,
+          "close": 344.52,
+          "volume": 929335
+        },
+        {
+          "time": "2026-08-18",
+          "open": 346.0,
+          "high": 346.95,
+          "low": 341.0,
+          "close": 341.86,
+          "volume": 263225
+        },
+        {
+          "time": "2026-08-19",
+          "open": 342.3,
+          "high": 344.47,
+          "low": 341.2,
+          "close": 342.32,
+          "volume": 236644
+        },
+        {
+          "time": "2026-08-20",
+          "open": 342.9,
+          "high": 344.5,
+          "low": 341.7,
+          "close": 343.91,
+          "volume": 93481
+        },
+        {
+          "time": "2026-08-21",
+          "open": 344.2,
+          "high": 344.2,
+          "low": 342.3,
+          "close": 342.56,
+          "volume": 232875
+        },
+        {
+          "time": "2026-08-24",
+          "open": 344.0,
+          "high": 346.25,
+          "low": 343.5,
+          "close": 344.62,
+          "volume": 135744
+        },
+        {
+          "time": "2026-08-25",
+          "open": 344.55,
+          "high": 344.97,
+          "low": 342.26,
+          "close": 342.69,
+          "volume": 139998
+        },
+        {
+          "time": "2026-08-26",
+          "open": 342.7,
+          "high": 343.63,
+          "low": 341.0,
+          "close": 341.95,
+          "volume": 290952
+        },
+        {
+          "time": "2026-08-27",
+          "open": 342.9,
+          "high": 343.01,
+          "low": 340.1,
+          "close": 341.39,
+          "volume": 136455
+        },
+        {
+          "time": "2026-08-28",
+          "open": 341.5,
+          "high": 342.15,
+          "low": 339.95,
+          "close": 341.93,
+          "volume": 194045
+        },
+        {
+          "time": "2026-08-31",
+          "open": 343.8,
+          "high": 343.8,
+          "low": 339.5,
+          "close": 341.71,
+          "volume": 467019
+        },
+        {
+          "time": "2026-09-01",
+          "open": 341.99,
+          "high": 342.79,
+          "low": 341.28,
+          "close": 341.86,
+          "volume": 176335
+        },
+        {
+          "time": "2026-09-02",
+          "open": 341.8,
+          "high": 342.5,
+          "low": 338.0,
+          "close": 341.39,
+          "volume": 180992
+        },
+        {
+          "time": "2026-09-03",
+          "open": 341.79,
+          "high": 346.95,
+          "low": 339.0,
+          "close": 342.37,
+          "volume": 432726
+        },
+        {
+          "time": "2026-09-04",
+          "open": 344.0,
+          "high": 344.0,
+          "low": 339.5,
+          "close": 341.79,
+          "volume": 136167
+        },
+        {
+          "time": "2026-09-07",
+          "open": 343.0,
+          "high": 343.99,
+          "low": 340.22,
+          "close": 341.27,
+          "volume": 221960
+        },
+        {
+          "time": "2026-09-08",
+          "open": 342.4,
+          "high": 342.94,
+          "low": 341.27,
+          "close": 341.89,
+          "volume": 872606
+        },
+        {
+          "time": "2026-09-09",
+          "open": 341.5,
+          "high": 342.0,
+          "low": 340.55,
+          "close": 341.07,
+          "volume": 219985
+        },
+        {
+          "time": "2026-09-10",
+          "open": 340.44,
+          "high": 342.98,
+          "low": 335.85,
+          "close": 337.59,
+          "volume": 361078
+        },
+        {
+          "time": "2026-09-11",
+          "open": 338.79,
+          "high": 340.1,
+          "low": 333.55,
+          "close": 335.41,
+          "volume": 350044
+        },
+        {
+          "time": "2026-09-14",
+          "open": 335.41,
+          "high": 335.41,
+          "low": 335.41,
+          "close": 335.41,
+          "volume": 0
+        },
+        {
+          "time": "2026-09-15",
+          "open": 335.41,
+          "high": 337.33,
+          "low": 334.31,
+          "close": 336.47,
+          "volume": 432711
+        },
+        {
+          "time": "2026-09-16",
+          "open": 335.88,
+          "high": 341.5,
+          "low": 335.21,
+          "close": 340.28,
+          "volume": 563994
+        },
+        {
+          "time": "2026-09-17",
+          "open": 340.0,
+          "high": 340.98,
+          "low": 337.5,
+          "close": 338.66,
+          "volume": 257357
+        },
+        {
+          "time": "2026-09-18",
+          "open": 339.75,
+          "high": 340.24,
+          "low": 338.4,
+          "close": 338.57,
+          "volume": 752548
+        },
+        {
+          "time": "2026-09-21",
+          "open": 339.98,
+          "high": 340.8,
+          "low": 338.61,
+          "close": 339.1,
+          "volume": 441163
+        },
+        {
+          "time": "2026-09-22",
+          "open": 339.67,
+          "high": 339.71,
+          "low": 338.0,
+          "close": 338.98,
+          "volume": 389735
+        },
+        {
+          "time": "2026-09-23",
+          "open": 339.4,
+          "high": 339.4,
+          "low": 336.11,
+          "close": 338.89,
+          "volume": 232894
+        },
+        {
+          "time": "2026-09-24",
+          "open": 338.5,
+          "high": 339.0,
+          "low": 334.56,
+          "close": 336.98,
+          "volume": 316319
+        },
+        {
+          "time": "2026-09-25",
+          "open": 338.4,
+          "high": 338.89,
+          "low": 335.56,
+          "close": 337.99,
+          "volume": 331171
+        },
+        {
+          "time": "2026-09-28",
+          "open": 338.0,
+          "high": 338.5,
+          "low": 335.11,
+          "close": 337.77,
+          "volume": 273445
+        },
+        {
+          "time": "2026-09-29",
+          "open": 338.8,
+          "high": 338.89,
+          "low": 331.05,
+          "close": 333.85,
+          "volume": 4347530
+        },
+        {
+          "time": "2026-09-30",
+          "open": 332.0,
+          "high": 338.76,
+          "low": 332.0,
+          "close": 336.03,
+          "volume": 1306720
+        },
+        {
+          "time": "2026-10-01",
+          "open": 334.0,
+          "high": 334.85,
+          "low": 325.53,
+          "close": 330.25,
+          "volume": 618497
         }
       ]
     },
@@ -128427,7 +128427,7 @@
           "high": 1780.5,
           "low": 1726.6,
           "close": 1754.6,
-          "volume": 282802
+          "volume": 282807
         }
       ]
     },
@@ -128815,7 +128815,7 @@
           "high": 346.05,
           "low": 334.2,
           "close": 340.35,
-          "volume": 487699
+          "volume": 487795
         }
       ]
     },
@@ -129203,7 +129203,7 @@
           "high": 4810.5,
           "low": 4717.3,
           "close": 4767.3,
-          "volume": 357696
+          "volume": 357701
         }
       ]
     },
@@ -129591,7 +129591,7 @@
           "high": 2719.9,
           "low": 2540.0,
           "close": 2631.9,
-          "volume": 154377
+          "volume": 154382
         }
       ]
     },
@@ -129979,7 +129979,7 @@
           "high": 513.5,
           "low": 498.25,
           "close": 506.25,
-          "volume": 547286
+          "volume": 547397
         }
       ]
     },
@@ -130367,7 +130367,7 @@
           "high": 57.37,
           "low": 55.11,
           "close": 56.29,
-          "volume": 926046
+          "volume": 926056
         }
       ]
     },
@@ -130755,7 +130755,7 @@
           "high": 744.95,
           "low": 708.3,
           "close": 727.35,
-          "volume": 277478
+          "volume": 277503
         }
       ]
     },
@@ -131143,7 +131143,7 @@
           "high": 396.75,
           "low": 386.0,
           "close": 391.85,
-          "volume": 5861228
+          "volume": 5862855
         }
       ]
     },
@@ -131531,7 +131531,7 @@
           "high": 1368.5,
           "low": 1316.1,
           "close": 1344.0,
-          "volume": 299226
+          "volume": 299231
         }
       ]
     },
@@ -131540,7 +131540,7 @@
       "name": "Wipro Ltd.",
       "industry": "Information Technology",
       "price": 159.35,
-      "turnover_cr": 295.56,
+      "turnover_cr": 295.57,
       "quant_score": 30,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -131919,7 +131919,7 @@
           "high": 160.95,
           "low": 157.25,
           "close": 159.35,
-          "volume": 18519625
+          "volume": 18521731
         }
       ]
     },
@@ -131928,7 +131928,7 @@
       "name": "Bajaj Finance Ltd.",
       "industry": "Financial Services",
       "price": 948.3,
-      "turnover_cr": 566.75,
+      "turnover_cr": 566.97,
       "quant_score": 30,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -132307,7 +132307,7 @@
           "high": 955.95,
           "low": 937.3,
           "close": 948.3,
-          "volume": 5653089
+          "volume": 5698769
         }
       ]
     },
@@ -132316,7 +132316,7 @@
       "name": "Bharat Electronics Ltd.",
       "industry": "Capital Goods",
       "price": 383.1,
-      "turnover_cr": 370.7,
+      "turnover_cr": 370.71,
       "quant_score": 30,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -132695,7 +132695,7 @@
           "high": 386.15,
           "low": 378.65,
           "close": 383.1,
-          "volume": 10246344
+          "volume": 10250149
         }
       ]
     },
@@ -133083,7 +133083,7 @@
           "high": 729.4,
           "low": 706.75,
           "close": 719.4,
-          "volume": 433509
+          "volume": 433514
         }
       ]
     },
@@ -133471,395 +133471,7 @@
           "high": 107.38,
           "low": 104.18,
           "close": 105.98,
-          "volume": 3177309
-        }
-      ]
-    },
-    {
-      "symbol": "BIRET",
-      "name": "Brookfield India Real Estate Trust",
-      "industry": "Realty",
-      "price": 336.03,
-      "turnover_cr": 20.57,
-      "quant_score": 30,
-      "rating": 2,
-      "stars": "\u2b50\u2b50",
-      "tier": "Bronze",
-      "is_diamond": false,
-      "compression": "Average \u2696\ufe0f",
-      "width_pct": 0.129,
-      "comp_ratio": "99%",
-      "dist_tc_pct": 0.07,
-      "rvol": 2.14,
-      "rs_score": 1.47,
-      "dma_50": 339.48,
-      "ema_20": 338.2,
-      "confluence": "Daily+Weekly Bull \ud83d\udfe2",
-      "bias": "Above CPR (Bullish) \ud83d\udfe2",
-      "relation": "Higher CPR \ud83d\udd3c",
-      "reasons": "Institutional Volume (2.14x)",
-      "daily": {
-        "pivot": 335.6,
-        "bc": 335.38,
-        "tc": 335.81,
-        "cpr_top": 335.81,
-        "cpr_bot": 335.38,
-        "width_pct": 0.129,
-        "r1": 339.19,
-        "s1": 332.43,
-        "r2": 342.36,
-        "s2": 328.84,
-        "r3": 345.95,
-        "s3": 325.67
-      },
-      "weekly": {
-        "pivot": 335.32,
-        "bc": 334.97,
-        "tc": 335.68,
-        "cpr_top": 335.68,
-        "cpr_bot": 334.97,
-        "width_pct": 0.211,
-        "r1": 339.6,
-        "s1": 331.76,
-        "r2": 343.16,
-        "s2": 327.48,
-        "r3": 347.44,
-        "s3": 323.92
-      },
-      "monthly": {
-        "pivot": 338.01,
-        "bc": 339.0,
-        "tc": 337.02,
-        "cpr_top": 339.0,
-        "cpr_bot": 337.02,
-        "width_pct": 0.586,
-        "r1": 344.97,
-        "s1": 329.07,
-        "r2": 353.91,
-        "s2": 322.11,
-        "r3": 360.87,
-        "s3": 313.17
-      },
-      "candles": [
-        {
-          "time": "2026-08-06",
-          "open": 339.1,
-          "high": 339.41,
-          "low": 335.97,
-          "close": 338.84,
-          "volume": 429195
-        },
-        {
-          "time": "2026-08-07",
-          "open": 339.41,
-          "high": 340.36,
-          "low": 337.46,
-          "close": 339.4,
-          "volume": 195835
-        },
-        {
-          "time": "2026-08-10",
-          "open": 340.99,
-          "high": 341.61,
-          "low": 339.67,
-          "close": 341.07,
-          "volume": 289236
-        },
-        {
-          "time": "2026-08-11",
-          "open": 342.21,
-          "high": 342.21,
-          "low": 337.64,
-          "close": 339.38,
-          "volume": 290462
-        },
-        {
-          "time": "2026-08-12",
-          "open": 341.18,
-          "high": 341.33,
-          "low": 337.94,
-          "close": 340.08,
-          "volume": 434265
-        },
-        {
-          "time": "2026-08-13",
-          "open": 342.0,
-          "high": 346.95,
-          "low": 341.5,
-          "close": 346.23,
-          "volume": 371917
-        },
-        {
-          "time": "2026-08-14",
-          "open": 346.5,
-          "high": 346.5,
-          "low": 342.0,
-          "close": 345.07,
-          "volume": 232066
-        },
-        {
-          "time": "2026-08-17",
-          "open": 346.0,
-          "high": 346.44,
-          "low": 343.5,
-          "close": 344.52,
-          "volume": 929335
-        },
-        {
-          "time": "2026-08-18",
-          "open": 346.0,
-          "high": 346.95,
-          "low": 341.0,
-          "close": 341.86,
-          "volume": 263225
-        },
-        {
-          "time": "2026-08-19",
-          "open": 342.3,
-          "high": 344.47,
-          "low": 341.2,
-          "close": 342.32,
-          "volume": 236644
-        },
-        {
-          "time": "2026-08-20",
-          "open": 342.9,
-          "high": 344.5,
-          "low": 341.7,
-          "close": 343.91,
-          "volume": 93481
-        },
-        {
-          "time": "2026-08-21",
-          "open": 344.2,
-          "high": 344.2,
-          "low": 342.3,
-          "close": 342.56,
-          "volume": 232875
-        },
-        {
-          "time": "2026-08-24",
-          "open": 344.0,
-          "high": 346.25,
-          "low": 343.5,
-          "close": 344.62,
-          "volume": 135744
-        },
-        {
-          "time": "2026-08-25",
-          "open": 344.55,
-          "high": 344.97,
-          "low": 342.26,
-          "close": 342.69,
-          "volume": 139998
-        },
-        {
-          "time": "2026-08-26",
-          "open": 342.7,
-          "high": 343.63,
-          "low": 341.0,
-          "close": 341.95,
-          "volume": 290952
-        },
-        {
-          "time": "2026-08-27",
-          "open": 342.9,
-          "high": 343.01,
-          "low": 340.1,
-          "close": 341.39,
-          "volume": 136455
-        },
-        {
-          "time": "2026-08-28",
-          "open": 341.5,
-          "high": 342.15,
-          "low": 339.95,
-          "close": 341.93,
-          "volume": 194045
-        },
-        {
-          "time": "2026-08-31",
-          "open": 343.8,
-          "high": 343.8,
-          "low": 339.5,
-          "close": 341.71,
-          "volume": 467019
-        },
-        {
-          "time": "2026-09-01",
-          "open": 341.99,
-          "high": 342.79,
-          "low": 341.28,
-          "close": 341.86,
-          "volume": 176335
-        },
-        {
-          "time": "2026-09-02",
-          "open": 341.8,
-          "high": 342.5,
-          "low": 338.0,
-          "close": 341.39,
-          "volume": 180992
-        },
-        {
-          "time": "2026-09-03",
-          "open": 341.79,
-          "high": 346.95,
-          "low": 339.0,
-          "close": 342.37,
-          "volume": 432726
-        },
-        {
-          "time": "2026-09-04",
-          "open": 344.0,
-          "high": 344.0,
-          "low": 339.5,
-          "close": 341.79,
-          "volume": 136167
-        },
-        {
-          "time": "2026-09-07",
-          "open": 343.0,
-          "high": 343.99,
-          "low": 340.22,
-          "close": 341.27,
-          "volume": 221960
-        },
-        {
-          "time": "2026-09-08",
-          "open": 342.4,
-          "high": 342.94,
-          "low": 341.27,
-          "close": 341.89,
-          "volume": 872606
-        },
-        {
-          "time": "2026-09-09",
-          "open": 341.5,
-          "high": 342.0,
-          "low": 340.55,
-          "close": 341.07,
-          "volume": 219985
-        },
-        {
-          "time": "2026-09-10",
-          "open": 340.44,
-          "high": 342.98,
-          "low": 335.85,
-          "close": 337.59,
-          "volume": 361078
-        },
-        {
-          "time": "2026-09-11",
-          "open": 338.79,
-          "high": 340.1,
-          "low": 333.55,
-          "close": 335.41,
-          "volume": 350044
-        },
-        {
-          "time": "2026-09-14",
-          "open": 335.41,
-          "high": 335.41,
-          "low": 335.41,
-          "close": 335.41,
-          "volume": 0
-        },
-        {
-          "time": "2026-09-15",
-          "open": 335.41,
-          "high": 337.33,
-          "low": 334.31,
-          "close": 336.47,
-          "volume": 432711
-        },
-        {
-          "time": "2026-09-16",
-          "open": 335.88,
-          "high": 341.5,
-          "low": 335.21,
-          "close": 340.28,
-          "volume": 563994
-        },
-        {
-          "time": "2026-09-17",
-          "open": 340.0,
-          "high": 340.98,
-          "low": 337.5,
-          "close": 338.66,
-          "volume": 257357
-        },
-        {
-          "time": "2026-09-18",
-          "open": 339.75,
-          "high": 340.24,
-          "low": 338.4,
-          "close": 338.57,
-          "volume": 752548
-        },
-        {
-          "time": "2026-09-21",
-          "open": 339.98,
-          "high": 340.8,
-          "low": 338.61,
-          "close": 339.1,
-          "volume": 441163
-        },
-        {
-          "time": "2026-09-22",
-          "open": 339.67,
-          "high": 339.71,
-          "low": 338.0,
-          "close": 338.98,
-          "volume": 389735
-        },
-        {
-          "time": "2026-09-23",
-          "open": 339.4,
-          "high": 339.4,
-          "low": 336.11,
-          "close": 338.89,
-          "volume": 232894
-        },
-        {
-          "time": "2026-09-24",
-          "open": 338.5,
-          "high": 339.0,
-          "low": 334.56,
-          "close": 336.98,
-          "volume": 316319
-        },
-        {
-          "time": "2026-09-25",
-          "open": 338.4,
-          "high": 338.89,
-          "low": 335.56,
-          "close": 337.99,
-          "volume": 331171
-        },
-        {
-          "time": "2026-09-28",
-          "open": 338.0,
-          "high": 338.5,
-          "low": 335.11,
-          "close": 337.77,
-          "volume": 273445
-        },
-        {
-          "time": "2026-09-29",
-          "open": 338.8,
-          "high": 338.89,
-          "low": 331.05,
-          "close": 333.85,
-          "volume": 4347530
-        },
-        {
-          "time": "2026-09-30",
-          "open": 332.0,
-          "high": 338.76,
-          "low": 332.0,
-          "close": 336.03,
-          "volume": 1306720
+          "volume": 3180623
         }
       ]
     },
@@ -134256,7 +133868,7 @@
       "name": "National Aluminium Co. Ltd.",
       "industry": "Metals & Mining",
       "price": 334.9,
-      "turnover_cr": 151.96,
+      "turnover_cr": 151.97,
       "quant_score": 30,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -134635,7 +134247,7 @@
           "high": 338.85,
           "low": 329.5,
           "close": 334.9,
-          "volume": 4668061
+          "volume": 4672624
         }
       ]
     },
@@ -134644,7 +134256,7 @@
       "name": "Inox Wind Ltd.",
       "industry": "Capital Goods",
       "price": 68.75,
-      "turnover_cr": 71.25,
+      "turnover_cr": 71.26,
       "quant_score": 30,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -135023,7 +134635,7 @@
           "high": 70.1,
           "low": 67.1,
           "close": 68.75,
-          "volume": 9944576
+          "volume": 9972133
         }
       ]
     },
@@ -135032,7 +134644,7 @@
       "name": "KEI Industries Ltd.",
       "industry": "Capital Goods",
       "price": 4502.0,
-      "turnover_cr": 269.86,
+      "turnover_cr": 269.87,
       "quant_score": 30,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -135411,7 +135023,7 @@
           "high": 4558.0,
           "low": 4424.2,
           "close": 4502.0,
-          "volume": 320836
+          "volume": 320912
         }
       ]
     },
@@ -135799,7 +135411,7 @@
           "high": 813.9,
           "low": 792.2,
           "close": 805.1,
-          "volume": 373070
+          "volume": 373180
         }
       ]
     },
@@ -136187,7 +135799,7 @@
           "high": 498.95,
           "low": 488.0,
           "close": 494.75,
-          "volume": 208285
+          "volume": 208385
         }
       ]
     },
@@ -136575,7 +136187,7 @@
           "high": 253.0,
           "low": 244.06,
           "close": 249.23,
-          "volume": 2812446
+          "volume": 2812833
         }
       ]
     },
@@ -136963,7 +136575,7 @@
           "high": 329.1,
           "low": 316.8,
           "close": 323.9,
-          "volume": 720156
+          "volume": 720831
         }
       ]
     },
@@ -137351,7 +136963,7 @@
           "high": 471.2,
           "low": 450.0,
           "close": 462.15,
-          "volume": 6826691
+          "volume": 6827265
         }
       ]
     },
@@ -138127,7 +137739,7 @@
           "high": 4305.2,
           "low": 4155.3,
           "close": 4251.3,
-          "volume": 305670
+          "volume": 305681
         }
       ]
     },
@@ -138515,7 +138127,7 @@
           "high": 789.95,
           "low": 760.1,
           "close": 779.35,
-          "volume": 1396509
+          "volume": 1396672
         }
       ]
     },
@@ -138903,7 +138515,7 @@
           "high": 1044.0,
           "low": 997.7,
           "close": 1032.1,
-          "volume": 652073
+          "volume": 652149
         }
       ]
     },
@@ -139291,7 +138903,7 @@
           "high": 72.9,
           "low": 70.25,
           "close": 71.75,
-          "volume": 10899419
+          "volume": 10903143
         }
       ]
     },
@@ -139679,7 +139291,7 @@
           "high": 2044.1,
           "low": 2004.2,
           "close": 2031.2,
-          "volume": 825855
+          "volume": 825892
         }
       ]
     },
@@ -139688,7 +139300,7 @@
       "name": "Marico Ltd.",
       "industry": "Fast Moving Consumer Goods",
       "price": 781.35,
-      "turnover_cr": 119.32,
+      "turnover_cr": 119.33,
       "quant_score": 28,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -140067,7 +139679,7 @@
           "high": 791.0,
           "low": 766.25,
           "close": 781.35,
-          "volume": 1776339
+          "volume": 1777571
         }
       ]
     },
@@ -140455,7 +140067,7 @@
           "high": 233.99,
           "low": 229.52,
           "close": 230.82,
-          "volume": 9033217
+          "volume": 9034271
         }
       ]
     },
@@ -140843,7 +140455,7 @@
           "high": 3440.0,
           "low": 3286.9,
           "close": 3380.0,
-          "volume": 167966
+          "volume": 167968
         }
       ]
     },
@@ -141231,7 +140843,7 @@
           "high": 1442.6,
           "low": 1399.2,
           "close": 1428.0,
-          "volume": 188775
+          "volume": 188777
         }
       ]
     },
@@ -141240,7 +140852,7 @@
       "name": "Computer Age Management Services Ltd.",
       "industry": "Financial Services",
       "price": 677.25,
-      "turnover_cr": 74.98,
+      "turnover_cr": 74.99,
       "quant_score": 28,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -141619,7 +141231,7 @@
           "high": 682.0,
           "low": 665.45,
           "close": 677.25,
-          "volume": 1577135
+          "volume": 1577224
         }
       ]
     },
@@ -142007,7 +141619,7 @@
           "high": 9318.0,
           "low": 9078.0,
           "close": 9249.0,
-          "volume": 567309
+          "volume": 567310
         }
       ]
     },
@@ -142395,7 +142007,7 @@
           "high": 30.46,
           "low": 29.76,
           "close": 30.0,
-          "volume": 4705604
+          "volume": 4707687
         }
       ]
     },
@@ -142783,7 +142395,7 @@
           "high": 22.5,
           "low": 22.0,
           "close": 22.16,
-          "volume": 2837613
+          "volume": 2837617
         }
       ]
     },
@@ -143171,7 +142783,7 @@
           "high": 900.75,
           "low": 880.3,
           "close": 886.85,
-          "volume": 1761199
+          "volume": 1761249
         }
       ]
     },
@@ -143559,7 +143171,7 @@
           "high": 178.9,
           "low": 173.65,
           "close": 175.43,
-          "volume": 1991394
+          "volume": 1991498
         }
       ]
     },
@@ -143568,7 +143180,7 @@
       "name": "Anupam Rasayan India Ltd.",
       "industry": "Chemicals",
       "price": 1163.7,
-      "turnover_cr": 67.05,
+      "turnover_cr": 67.06,
       "quant_score": 25,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -143578,7 +143190,7 @@
       "width_pct": 0.325,
       "comp_ratio": "131%",
       "dist_tc_pct": 0.16,
-      "rvol": 0.38,
+      "rvol": 0.39,
       "rs_score": -8.11,
       "dma_50": 1215.57,
       "ema_20": 1195.48,
@@ -143947,7 +143559,7 @@
           "high": 1187.3,
           "low": 1151.5,
           "close": 1163.7,
-          "volume": 221792
+          "volume": 224878
         }
       ]
     },
@@ -144335,7 +143947,7 @@
           "high": 172.19,
           "low": 164.81,
           "close": 167.59,
-          "volume": 7872244
+          "volume": 7875995
         }
       ]
     },
@@ -144723,7 +144335,7 @@
           "high": 1529.9,
           "low": 1473.1,
           "close": 1492.8,
-          "volume": 156758
+          "volume": 157119
         }
       ]
     },
@@ -144732,7 +144344,7 @@
       "name": "Godrej Consumer Products Ltd.",
       "industry": "Fast Moving Consumer Goods",
       "price": 840.0,
-      "turnover_cr": 88.96,
+      "turnover_cr": 88.97,
       "quant_score": 25,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -145111,7 +144723,7 @@
           "high": 852.0,
           "low": 838.0,
           "close": 840.0,
-          "volume": 838028
+          "volume": 838419
         }
       ]
     },
@@ -145120,7 +144732,7 @@
       "name": "Patanjali Foods Ltd.",
       "industry": "Fast Moving Consumer Goods",
       "price": 355.15,
-      "turnover_cr": 188.85,
+      "turnover_cr": 189.13,
       "quant_score": 25,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -145130,7 +144742,7 @@
       "width_pct": 0.402,
       "comp_ratio": "87%",
       "dist_tc_pct": 0.2,
-      "rvol": 0.78,
+      "rvol": 0.81,
       "rs_score": -13.61,
       "dma_50": 356.12,
       "ema_20": 370.07,
@@ -145499,7 +145111,7 @@
           "high": 366.05,
           "low": 348.55,
           "close": 355.15,
-          "volume": 4170432
+          "volume": 4327803
         }
       ]
     },
@@ -145887,7 +145499,7 @@
           "high": 1775.4,
           "low": 1716.1,
           "close": 1735.0,
-          "volume": 412816
+          "volume": 412868
         }
       ]
     },
@@ -146275,7 +145887,395 @@
           "high": 4699.7,
           "low": 4559.3,
           "close": 4601.0,
-          "volume": 739766
+          "volume": 739864
+        }
+      ]
+    },
+    {
+      "symbol": "EMBASSY",
+      "name": "EMBASSY OFFICE PARKS REIT",
+      "industry": "Realty",
+      "price": 428.71,
+      "turnover_cr": 45.83,
+      "quant_score": 25,
+      "rating": 2,
+      "stars": "\u2b50\u2b50",
+      "tier": "Bronze",
+      "is_diamond": false,
+      "compression": "Wide \u2194\ufe0f",
+      "width_pct": 0.436,
+      "comp_ratio": "323%",
+      "dist_tc_pct": 0.22,
+      "rvol": 1.09,
+      "rs_score": -3.36,
+      "dma_50": 437.88,
+      "ema_20": 437.41,
+      "confluence": "Triple Bearish \u2744\ufe0f",
+      "bias": "Below CPR (Bearish) \ud83d\udd34",
+      "relation": "Lower CPR \ud83d\udd3d",
+      "reasons": "Triple Bearish (D+W+M)",
+      "daily": {
+        "pivot": 430.59,
+        "bc": 431.53,
+        "tc": 429.65,
+        "cpr_top": 431.53,
+        "cpr_bot": 429.65,
+        "width_pct": 0.436,
+        "r1": 435.82,
+        "s1": 423.47,
+        "r2": 442.94,
+        "s2": 418.24,
+        "r3": 448.17,
+        "s3": 411.12
+      },
+      "weekly": {
+        "pivot": 431.35,
+        "bc": 432.68,
+        "tc": 430.03,
+        "cpr_top": 432.68,
+        "cpr_bot": 430.03,
+        "width_pct": 0.613,
+        "r1": 437.36,
+        "s1": 422.71,
+        "r2": 446.0,
+        "s2": 416.7,
+        "r3": 452.01,
+        "s3": 408.06
+      },
+      "monthly": {
+        "pivot": 430.59,
+        "bc": 431.53,
+        "tc": 429.65,
+        "cpr_top": 431.53,
+        "cpr_bot": 429.65,
+        "width_pct": 0.436,
+        "r1": 435.82,
+        "s1": 423.47,
+        "r2": 442.94,
+        "s2": 418.24,
+        "r3": 448.17,
+        "s3": 411.12
+      },
+      "candles": [
+        {
+          "time": "2026-08-07",
+          "open": 442.0,
+          "high": 443.38,
+          "low": 439.03,
+          "close": 441.28,
+          "volume": 209346
+        },
+        {
+          "time": "2026-08-10",
+          "open": 441.85,
+          "high": 441.85,
+          "low": 437.0,
+          "close": 439.27,
+          "volume": 955560
+        },
+        {
+          "time": "2026-08-11",
+          "open": 438.9,
+          "high": 445.35,
+          "low": 437.5,
+          "close": 439.95,
+          "volume": 471974
+        },
+        {
+          "time": "2026-08-12",
+          "open": 441.0,
+          "high": 443.8,
+          "low": 438.4,
+          "close": 439.47,
+          "volume": 433095
+        },
+        {
+          "time": "2026-08-13",
+          "open": 440.99,
+          "high": 449.95,
+          "low": 440.13,
+          "close": 449.01,
+          "volume": 489617
+        },
+        {
+          "time": "2026-08-14",
+          "open": 449.01,
+          "high": 453.25,
+          "low": 447.5,
+          "close": 452.61,
+          "volume": 1020183
+        },
+        {
+          "time": "2026-08-17",
+          "open": 439.99,
+          "high": 441.3,
+          "low": 435.0,
+          "close": 440.29,
+          "volume": 61565199
+        },
+        {
+          "time": "2026-08-18",
+          "open": 440.29,
+          "high": 441.25,
+          "low": 438.5,
+          "close": 440.0,
+          "volume": 1466185
+        },
+        {
+          "time": "2026-08-19",
+          "open": 440.0,
+          "high": 440.99,
+          "low": 435.11,
+          "close": 435.68,
+          "volume": 763400
+        },
+        {
+          "time": "2026-08-20",
+          "open": 435.5,
+          "high": 436.99,
+          "low": 432.21,
+          "close": 435.24,
+          "volume": 889073
+        },
+        {
+          "time": "2026-08-21",
+          "open": 434.95,
+          "high": 437.1,
+          "low": 434.0,
+          "close": 436.08,
+          "volume": 1558888
+        },
+        {
+          "time": "2026-08-24",
+          "open": 437.0,
+          "high": 438.68,
+          "low": 434.67,
+          "close": 435.46,
+          "volume": 642875
+        },
+        {
+          "time": "2026-08-25",
+          "open": 436.0,
+          "high": 438.5,
+          "low": 434.75,
+          "close": 435.22,
+          "volume": 758060
+        },
+        {
+          "time": "2026-08-26",
+          "open": 436.0,
+          "high": 441.9,
+          "low": 435.21,
+          "close": 439.92,
+          "volume": 755966
+        },
+        {
+          "time": "2026-08-27",
+          "open": 438.92,
+          "high": 439.8,
+          "low": 435.86,
+          "close": 437.19,
+          "volume": 638662
+        },
+        {
+          "time": "2026-08-28",
+          "open": 437.99,
+          "high": 439.5,
+          "low": 435.86,
+          "close": 437.22,
+          "volume": 438338
+        },
+        {
+          "time": "2026-08-31",
+          "open": 439.4,
+          "high": 440.0,
+          "low": 436.1,
+          "close": 438.48,
+          "volume": 1208586
+        },
+        {
+          "time": "2026-09-01",
+          "open": 438.7,
+          "high": 440.0,
+          "low": 437.42,
+          "close": 438.73,
+          "volume": 247838
+        },
+        {
+          "time": "2026-09-02",
+          "open": 438.52,
+          "high": 439.49,
+          "low": 435.0,
+          "close": 435.23,
+          "volume": 372037
+        },
+        {
+          "time": "2026-09-03",
+          "open": 435.98,
+          "high": 446.85,
+          "low": 435.98,
+          "close": 438.57,
+          "volume": 967048
+        },
+        {
+          "time": "2026-09-04",
+          "open": 439.97,
+          "high": 439.97,
+          "low": 435.11,
+          "close": 438.69,
+          "volume": 641632
+        },
+        {
+          "time": "2026-09-07",
+          "open": 440.0,
+          "high": 441.0,
+          "low": 438.0,
+          "close": 438.88,
+          "volume": 309177
+        },
+        {
+          "time": "2026-09-08",
+          "open": 440.97,
+          "high": 440.97,
+          "low": 439.11,
+          "close": 439.87,
+          "volume": 293614
+        },
+        {
+          "time": "2026-09-09",
+          "open": 438.0,
+          "high": 440.89,
+          "low": 438.0,
+          "close": 439.63,
+          "volume": 215948
+        },
+        {
+          "time": "2026-09-10",
+          "open": 439.6,
+          "high": 440.39,
+          "low": 436.1,
+          "close": 438.98,
+          "volume": 450803
+        },
+        {
+          "time": "2026-09-11",
+          "open": 440.0,
+          "high": 442.0,
+          "low": 437.01,
+          "close": 439.07,
+          "volume": 417287
+        },
+        {
+          "time": "2026-09-14",
+          "open": 439.07,
+          "high": 439.07,
+          "low": 439.07,
+          "close": 439.07,
+          "volume": 0
+        },
+        {
+          "time": "2026-09-15",
+          "open": 435.51,
+          "high": 440.0,
+          "low": 435.51,
+          "close": 439.48,
+          "volume": 489706
+        },
+        {
+          "time": "2026-09-16",
+          "open": 439.95,
+          "high": 440.0,
+          "low": 436.5,
+          "close": 439.58,
+          "volume": 554410
+        },
+        {
+          "time": "2026-09-17",
+          "open": 439.5,
+          "high": 440.0,
+          "low": 438.31,
+          "close": 439.46,
+          "volume": 626311
+        },
+        {
+          "time": "2026-09-18",
+          "open": 439.46,
+          "high": 446.6,
+          "low": 437.5,
+          "close": 441.07,
+          "volume": 5129525
+        },
+        {
+          "time": "2026-09-21",
+          "open": 440.55,
+          "high": 440.55,
+          "low": 438.1,
+          "close": 438.97,
+          "volume": 499292
+        },
+        {
+          "time": "2026-09-22",
+          "open": 438.97,
+          "high": 443.0,
+          "low": 438.14,
+          "close": 440.97,
+          "volume": 573076
+        },
+        {
+          "time": "2026-09-23",
+          "open": 440.97,
+          "high": 440.98,
+          "low": 436.22,
+          "close": 437.44,
+          "volume": 373146
+        },
+        {
+          "time": "2026-09-24",
+          "open": 437.8,
+          "high": 440.0,
+          "low": 436.4,
+          "close": 439.77,
+          "volume": 594992
+        },
+        {
+          "time": "2026-09-25",
+          "open": 439.77,
+          "high": 439.8,
+          "low": 436.5,
+          "close": 437.66,
+          "volume": 370503
+        },
+        {
+          "time": "2026-09-28",
+          "open": 439.8,
+          "high": 440.0,
+          "low": 435.06,
+          "close": 437.66,
+          "volume": 718282
+        },
+        {
+          "time": "2026-09-29",
+          "open": 435.7,
+          "high": 440.0,
+          "low": 432.0,
+          "close": 437.71,
+          "volume": 5374016
+        },
+        {
+          "time": "2026-09-30",
+          "open": 437.71,
+          "high": 440.0,
+          "low": 432.05,
+          "close": 434.42,
+          "volume": 2583104
+        },
+        {
+          "time": "2026-10-01",
+          "open": 433.75,
+          "high": 437.7,
+          "low": 425.35,
+          "close": 428.71,
+          "volume": 1165022
         }
       ]
     },
@@ -146663,7 +146663,7 @@
           "high": 1099.1,
           "low": 1057.5,
           "close": 1071.0,
-          "volume": 104768
+          "volume": 104769
         }
       ]
     },
@@ -147051,7 +147051,7 @@
           "high": 541.25,
           "low": 526.0,
           "close": 530.0,
-          "volume": 473632
+          "volume": 473633
         }
       ]
     },
@@ -147439,7 +147439,7 @@
           "high": 1386.4,
           "low": 1345.1,
           "close": 1356.4,
-          "volume": 115264
+          "volume": 115268
         }
       ]
     },
@@ -147827,7 +147827,7 @@
           "high": 810.5,
           "low": 786.85,
           "close": 793.15,
-          "volume": 671322
+          "volume": 671392
         }
       ]
     },
@@ -148215,7 +148215,7 @@
           "high": 408.65,
           "low": 397.0,
           "close": 400.0,
-          "volume": 1371356
+          "volume": 1371538
         }
       ]
     },
@@ -148603,7 +148603,7 @@
           "high": 148.0,
           "low": 141.91,
           "close": 143.85,
-          "volume": 451046
+          "volume": 451047
         }
       ]
     },
@@ -148612,7 +148612,7 @@
       "name": "Hindustan Unilever Ltd.",
       "industry": "Fast Moving Consumer Goods",
       "price": 1836.0,
-      "turnover_cr": 232.43,
+      "turnover_cr": 232.44,
       "quant_score": 25,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -148991,7 +148991,7 @@
           "high": 1873.6,
           "low": 1826.9,
           "close": 1836.0,
-          "volume": 1331073
+          "volume": 1331680
         }
       ]
     },
@@ -149379,7 +149379,7 @@
           "high": 446.45,
           "low": 427.1,
           "close": 433.4,
-          "volume": 762690
+          "volume": 762919
         }
       ]
     },
@@ -149767,7 +149767,7 @@
           "high": 290.85,
           "low": 278.65,
           "close": 282.5,
-          "volume": 784757
+          "volume": 784762
         }
       ]
     },
@@ -150155,7 +150155,7 @@
           "high": 185.36,
           "low": 178.01,
           "close": 180.11,
-          "volume": 18071130
+          "volume": 18076780
         }
       ]
     },
@@ -150164,7 +150164,7 @@
       "name": "Vedanta Aluminium Metal Ltd.",
       "industry": "Metals & Mining",
       "price": 402.75,
-      "turnover_cr": 375.41,
+      "turnover_cr": 375.42,
       "quant_score": 25,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -150543,7 +150543,7 @@
           "high": 413.85,
           "low": 398.75,
           "close": 402.75,
-          "volume": 6982825
+          "volume": 6985636
         }
       ]
     },
@@ -150931,7 +150931,7 @@
           "high": 316.4,
           "low": 300.85,
           "close": 305.9,
-          "volume": 1382852
+          "volume": 1383663
         }
       ]
     },
@@ -151319,7 +151319,7 @@
           "high": 2765.6,
           "low": 2676.9,
           "close": 2697.1,
-          "volume": 553524
+          "volume": 553592
         }
       ]
     },
@@ -152104,7 +152104,7 @@
       "name": "Anant Raj Ltd.",
       "industry": "Realty",
       "price": 577.85,
-      "turnover_cr": 107.72,
+      "turnover_cr": 107.73,
       "quant_score": 25,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -152483,7 +152483,7 @@
           "high": 598.5,
           "low": 569.05,
           "close": 577.85,
-          "volume": 1529058
+          "volume": 1533673
         }
       ]
     },
@@ -152871,7 +152871,7 @@
           "high": 480.0,
           "low": 459.75,
           "close": 465.1,
-          "volume": 486109
+          "volume": 486186
         }
       ]
     },
@@ -153259,7 +153259,7 @@
           "high": 4860.0,
           "low": 4760.0,
           "close": 4860.0,
-          "volume": 393675
+          "volume": 393680
         }
       ]
     },
@@ -153647,7 +153647,7 @@
           "high": 1337.0,
           "low": 1290.1,
           "close": 1299.8,
-          "volume": 431036
+          "volume": 431038
         }
       ]
     },
@@ -154035,7 +154035,7 @@
           "high": 757.9,
           "low": 727.95,
           "close": 734.95,
-          "volume": 95866
+          "volume": 95867
         }
       ]
     },
@@ -154423,7 +154423,7 @@
           "high": 2302.4,
           "low": 2220.0,
           "close": 2236.0,
-          "volume": 125253
+          "volume": 125263
         }
       ]
     },
@@ -154811,7 +154811,7 @@
           "high": 383.85,
           "low": 373.2,
           "close": 374.25,
-          "volume": 2454554
+          "volume": 2455226
         }
       ]
     },
@@ -155199,7 +155199,7 @@
           "high": 411.25,
           "low": 396.5,
           "close": 399.3,
-          "volume": 447020
+          "volume": 447087
         }
       ]
     },
@@ -155587,7 +155587,7 @@
           "high": 538.9,
           "low": 517.4,
           "close": 534.2,
-          "volume": 4008526
+          "volume": 4008935
         }
       ]
     },
@@ -155975,7 +155975,7 @@
           "high": 3300.0,
           "low": 3197.0,
           "close": 3286.6,
-          "volume": 49710
+          "volume": 49734
         }
       ]
     },
@@ -156751,7 +156751,7 @@
           "high": 278.95,
           "low": 267.05,
           "close": 269.75,
-          "volume": 1536368
+          "volume": 1536439
         }
       ]
     },
@@ -157139,7 +157139,7 @@
           "high": 1783.8,
           "low": 1726.1,
           "close": 1776.4,
-          "volume": 149959
+          "volume": 149999
         }
       ]
     },
@@ -157158,7 +157158,7 @@
       "width_pct": 0.814,
       "comp_ratio": "129%",
       "dist_tc_pct": 0.41,
-      "rvol": 0.24,
+      "rvol": 0.25,
       "rs_score": -17.67,
       "dma_50": 191.59,
       "ema_20": 179.11,
@@ -157527,7 +157527,7 @@
           "high": 181.1,
           "low": 172.7,
           "close": 174.75,
-          "volume": 2147224
+          "volume": 2150458
         }
       ]
     },
@@ -157915,7 +157915,7 @@
           "high": 3549.6,
           "low": 3337.2,
           "close": 3399.0,
-          "volume": 963988
+          "volume": 964281
         }
       ]
     },
@@ -158303,7 +158303,7 @@
           "high": 1350.0,
           "low": 1286.0,
           "close": 1300.9,
-          "volume": 226180
+          "volume": 226222
         }
       ]
     },
@@ -158691,7 +158691,7 @@
           "high": 261.25,
           "low": 251.85,
           "close": 253.2,
-          "volume": 1596782
+          "volume": 1597038
         }
       ]
     },
@@ -159079,7 +159079,7 @@
           "high": 304.3,
           "low": 285.1,
           "close": 290.75,
-          "volume": 1739398
+          "volume": 1739742
         }
       ]
     },
@@ -159467,7 +159467,7 @@
           "high": 582.5,
           "low": 560.15,
           "close": 563.2,
-          "volume": 962700
+          "volume": 962872
         }
       ]
     },
@@ -159855,7 +159855,7 @@
           "high": 166.96,
           "low": 158.29,
           "close": 160.21,
-          "volume": 1814115
+          "volume": 1814930
         }
       ]
     },
@@ -160243,7 +160243,7 @@
           "high": 1697.9,
           "low": 1617.5,
           "close": 1683.0,
-          "volume": 140765
+          "volume": 140782
         }
       ]
     },
@@ -160631,7 +160631,7 @@
           "high": 1129.0,
           "low": 1084.2,
           "close": 1125.7,
-          "volume": 187766
+          "volume": 187768
         }
       ]
     },
@@ -161019,7 +161019,7 @@
           "high": 74.7,
           "low": 71.64,
           "close": 71.92,
-          "volume": 13786971
+          "volume": 13789871
         }
       ]
     },
@@ -161407,7 +161407,7 @@
           "high": 128.8,
           "low": 122.44,
           "close": 123.4,
-          "volume": 1952540
+          "volume": 1953202
         }
       ]
     },
@@ -161795,7 +161795,7 @@
           "high": 249.1,
           "low": 235.5,
           "close": 238.0,
-          "volume": 13783000
+          "volume": 13785398
         }
       ]
     },
@@ -161814,7 +161814,7 @@
       "width_pct": 1.2,
       "comp_ratio": "257%",
       "dist_tc_pct": 0.6,
-      "rvol": 0.58,
+      "rvol": 0.59,
       "rs_score": -2.08,
       "dma_50": 1610.74,
       "ema_20": 1559.66,
@@ -162183,7 +162183,7 @@
           "high": 1511.9,
           "low": 1440.1,
           "close": 1449.6,
-          "volume": 179038
+          "volume": 179131
         }
       ]
     },
@@ -162571,7 +162571,7 @@
           "high": 515.25,
           "low": 490.2,
           "close": 493.25,
-          "volume": 151531
+          "volume": 151840
         }
       ]
     },
@@ -162580,7 +162580,7 @@
       "name": "IFCI Ltd.",
       "industry": "Financial Services",
       "price": 65.14,
-      "turnover_cr": 677.44,
+      "turnover_cr": 677.45,
       "quant_score": 25,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -162959,7 +162959,7 @@
           "high": 68.55,
           "low": 64.25,
           "close": 65.14,
-          "volume": 41886052
+          "volume": 41910107
         }
       ]
     },
@@ -163347,7 +163347,7 @@
           "high": 5102.5,
           "low": 4811.5,
           "close": 4861.0,
-          "volume": 73879
+          "volume": 73885
         }
       ]
     },
@@ -163735,7 +163735,7 @@
           "high": 13290.0,
           "low": 12651.0,
           "close": 12700.0,
-          "volume": 258786
+          "volume": 258830
         }
       ]
     },
@@ -164123,7 +164123,7 @@
           "high": 465.0,
           "low": 436.1,
           "close": 440.0,
-          "volume": 985193
+          "volume": 985198
         }
       ]
     },
@@ -164132,7 +164132,7 @@
       "name": "Tejas Networks Ltd.",
       "industry": "Telecommunication",
       "price": 464.8,
-      "turnover_cr": 139.31,
+      "turnover_cr": 139.32,
       "quant_score": 25,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -164511,7 +164511,7 @@
           "high": 491.7,
           "low": 461.1,
           "close": 464.8,
-          "volume": 1789704
+          "volume": 1792351
         }
       ]
     },
@@ -164899,7 +164899,7 @@
           "high": 855.0,
           "low": 803.0,
           "close": 806.45,
-          "volume": 403699
+          "volume": 403813
         }
       ]
     },
@@ -165287,7 +165287,7 @@
           "high": 3602.4,
           "low": 3489.6,
           "close": 3581.0,
-          "volume": 75747
+          "volume": 75759
         }
       ]
     },
@@ -165675,7 +165675,7 @@
           "high": 450.55,
           "low": 441.8,
           "close": 448.05,
-          "volume": 1267486
+          "volume": 1267559
         }
       ]
     },
@@ -166063,7 +166063,7 @@
           "high": 888.4,
           "low": 860.1,
           "close": 878.05,
-          "volume": 1258902
+          "volume": 1259157
         }
       ]
     },
@@ -166451,7 +166451,7 @@
           "high": 4334.0,
           "low": 4213.3,
           "close": 4253.2,
-          "volume": 784386
+          "volume": 784543
         }
       ]
     },
@@ -166839,7 +166839,7 @@
           "high": 4465.5,
           "low": 4345.0,
           "close": 4428.6,
-          "volume": 32312
+          "volume": 32314
         }
       ]
     },
@@ -167227,7 +167227,7 @@
           "high": 2045.4,
           "low": 1978.0,
           "close": 2023.3,
-          "volume": 303248
+          "volume": 303300
         }
       ]
     },
@@ -167236,7 +167236,7 @@
       "name": "Ola Electric Mobility Ltd.",
       "industry": "Automobile and Auto Components",
       "price": 37.08,
-      "turnover_cr": 355.54,
+      "turnover_cr": 355.55,
       "quant_score": 20,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -167615,7 +167615,7 @@
           "high": 37.3,
           "low": 36.33,
           "close": 37.08,
-          "volume": 54895799
+          "volume": 54910840
         }
       ]
     },
@@ -168003,7 +168003,7 @@
           "high": 1556.9,
           "low": 1493.1,
           "close": 1541.2,
-          "volume": 584533
+          "volume": 584535
         }
       ]
     },
@@ -168391,7 +168391,7 @@
           "high": 791.45,
           "low": 756.9,
           "close": 786.15,
-          "volume": 1585307
+          "volume": 1585680
         }
       ]
     },
@@ -169167,7 +169167,7 @@
           "high": 1262.9,
           "low": 1220.5,
           "close": 1225.1,
-          "volume": 633708
+          "volume": 633743
         }
       ]
     },
@@ -169555,7 +169555,7 @@
           "high": 1056.3,
           "low": 1024.2,
           "close": 1045.4,
-          "volume": 226288
+          "volume": 226314
         }
       ]
     },
@@ -169943,7 +169943,7 @@
           "high": 742.0,
           "low": 722.4,
           "close": 736.25,
-          "volume": 900775
+          "volume": 900776
         }
       ]
     },
@@ -170352,7 +170352,7 @@
       "dist_tc_pct": 0.23,
       "rvol": 1.55,
       "rs_score": -16.4,
-      "dma_50": 865.78,
+      "dma_50": 865.77,
       "ema_20": 830.08,
       "confluence": "Neutral / Mixed \u2696\ufe0f",
       "bias": "Above CPR (Bullish) \ud83d\udfe2",
@@ -170403,74 +170403,74 @@
       "candles": [
         {
           "time": "2026-08-07",
-          "open": 912.37,
-          "high": 917.71,
-          "low": 909.47,
-          "close": 915.11,
+          "open": 912.35,
+          "high": 917.7,
+          "low": 909.46,
+          "close": 915.1,
           "volume": 168655
         },
         {
           "time": "2026-08-10",
-          "open": 916.06,
-          "high": 930.94,
-          "low": 904.08,
-          "close": 908.97,
+          "open": 916.05,
+          "high": 930.92,
+          "low": 904.07,
+          "close": 908.96,
           "volume": 199069
         },
         {
           "time": "2026-08-11",
-          "open": 908.92,
-          "high": 927.34,
-          "low": 901.73,
-          "close": 905.48,
+          "open": 908.91,
+          "high": 927.33,
+          "low": 901.72,
+          "close": 905.47,
           "volume": 406109
         },
         {
           "time": "2026-08-12",
-          "open": 906.43,
-          "high": 920.6,
-          "low": 904.48,
-          "close": 913.76,
+          "open": 906.41,
+          "high": 920.59,
+          "low": 904.47,
+          "close": 913.75,
           "volume": 270111
         },
         {
           "time": "2026-08-13",
-          "open": 918.71,
-          "high": 960.39,
-          "low": 915.66,
-          "close": 950.1,
+          "open": 918.69,
+          "high": 960.37,
+          "low": 915.65,
+          "close": 950.09,
           "volume": 1200054
         },
         {
           "time": "2026-08-14",
-          "open": 950.1,
-          "high": 963.23,
-          "low": 884.86,
-          "close": 901.63,
+          "open": 950.09,
+          "high": 963.22,
+          "low": 884.85,
+          "close": 901.62,
           "volume": 2494304
         },
         {
           "time": "2026-08-17",
-          "open": 894.6,
-          "high": 895.59,
-          "low": 868.74,
-          "close": 888.31,
+          "open": 894.58,
+          "high": 895.58,
+          "low": 868.73,
+          "close": 888.29,
           "volume": 844481
         },
         {
           "time": "2026-08-18",
-          "open": 889.11,
-          "high": 899.49,
-          "low": 888.51,
-          "close": 896.84,
+          "open": 889.09,
+          "high": 899.48,
+          "low": 888.49,
+          "close": 896.83,
           "volume": 281134
         },
         {
           "time": "2026-08-19",
-          "open": 897.44,
-          "high": 914.46,
-          "low": 881.52,
-          "close": 885.36,
+          "open": 897.43,
+          "high": 914.45,
+          "low": 881.51,
+          "close": 885.35,
           "volume": 318070
         },
         {
@@ -170719,7 +170719,7 @@
           "high": 827.1,
           "low": 804.0,
           "close": 821.3,
-          "volume": 717250
+          "volume": 717435
         }
       ]
     },
@@ -171107,7 +171107,7 @@
           "high": 946.65,
           "low": 923.5,
           "close": 941.85,
-          "volume": 5877274
+          "volume": 5877840
         }
       ]
     },
@@ -171126,14 +171126,14 @@
       "width_pct": 0.52,
       "comp_ratio": "141%",
       "dist_tc_pct": 0.26,
-      "rvol": 3.03,
+      "rvol": 3.04,
       "rs_score": -9.57,
       "dma_50": 1942.13,
       "ema_20": 1833.07,
       "confluence": "Neutral / Mixed \u2696\ufe0f",
       "bias": "Above CPR (Bullish) \ud83d\udfe2",
       "relation": "Overlapping",
-      "reasons": "Institutional Volume (3.03x)",
+      "reasons": "Institutional Volume (3.04x)",
       "daily": {
         "pivot": 1723.63,
         "bc": 1719.15,
@@ -171495,7 +171495,7 @@
           "high": 1734.9,
           "low": 1703.4,
           "close": 1732.6,
-          "volume": 2291308
+          "volume": 2292234
         }
       ]
     },
@@ -172271,7 +172271,7 @@
           "high": 208.8,
           "low": 196.47,
           "close": 204.38,
-          "volume": 2708718
+          "volume": 2709836
         }
       ]
     },
@@ -172659,7 +172659,7 @@
           "high": 1041.8,
           "low": 1019.7,
           "close": 1040.0,
-          "volume": 2029891
+          "volume": 2030089
         }
       ]
     },
@@ -173047,7 +173047,7 @@
           "high": 996.7,
           "low": 965.05,
           "close": 989.9,
-          "volume": 1607957
+          "volume": 1607962
         }
       ]
     },
@@ -173435,7 +173435,7 @@
           "high": 8135.0,
           "low": 7910.0,
           "close": 8133.5,
-          "volume": 939059
+          "volume": 939105
         }
       ]
     },
@@ -173823,7 +173823,7 @@
           "high": 1775.9,
           "low": 1701.0,
           "close": 1763.6,
-          "volume": 239103
+          "volume": 239111
         }
       ]
     },
@@ -174211,7 +174211,7 @@
           "high": 2701.0,
           "low": 2550.1,
           "close": 2667.3,
-          "volume": 338519
+          "volume": 338525
         }
       ]
     },
@@ -174220,7 +174220,7 @@
       "name": "Max Healthcare Institute Ltd.",
       "industry": "Healthcare",
       "price": 940.95,
-      "turnover_cr": 256.13,
+      "turnover_cr": 256.14,
       "quant_score": 15,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -174599,7 +174599,7 @@
           "high": 950.0,
           "low": 902.05,
           "close": 940.95,
-          "volume": 5463802
+          "volume": 5464461
         }
       ]
     },
@@ -174608,7 +174608,7 @@
       "name": "Fortis Healthcare Ltd.",
       "industry": "Healthcare",
       "price": 785.0,
-      "turnover_cr": 132.29,
+      "turnover_cr": 132.3,
       "quant_score": 15,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -174987,7 +174987,7 @@
           "high": 786.4,
           "low": 745.35,
           "close": 785.0,
-          "volume": 6942185
+          "volume": 6942851
         }
       ]
     },
@@ -175375,7 +175375,7 @@
           "high": 447.75,
           "low": 434.65,
           "close": 444.0,
-          "volume": 2266202
+          "volume": 2266203
         }
       ]
     },
@@ -175763,7 +175763,7 @@
           "high": 1400.0,
           "low": 1320.0,
           "close": 1374.1,
-          "volume": 147222
+          "volume": 147229
         }
       ]
     },
@@ -176151,7 +176151,7 @@
           "high": 454.85,
           "low": 435.0,
           "close": 451.3,
-          "volume": 683054
+          "volume": 683663
         }
       ]
     },
@@ -176539,7 +176539,7 @@
           "high": 430.8,
           "low": 415.35,
           "close": 425.3,
-          "volume": 8516083
+          "volume": 8516414
         }
       ]
     },
@@ -176548,7 +176548,7 @@
       "name": "GAIL (India) Ltd.",
       "industry": "Oil Gas & Consumable Fuels",
       "price": 171.22,
-      "turnover_cr": 106.59,
+      "turnover_cr": 106.6,
       "quant_score": 8,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -176927,7 +176927,7 @@
           "high": 171.89,
           "low": 168.55,
           "close": 171.22,
-          "volume": 6880267
+          "volume": 6882008
         }
       ]
     },
@@ -177315,7 +177315,7 @@
           "high": 1041.0,
           "low": 985.2,
           "close": 1019.6,
-          "volume": 105258
+          "volume": 105287
         }
       ]
     },
@@ -177703,7 +177703,7 @@
           "high": 111.86,
           "low": 108.53,
           "close": 111.0,
-          "volume": 5285596
+          "volume": 5290233
         }
       ]
     },
@@ -178091,7 +178091,7 @@
           "high": 281.3,
           "low": 273.35,
           "close": 279.4,
-          "volume": 15253213
+          "volume": 15258191
         }
       ]
     },
@@ -178100,7 +178100,7 @@
       "name": "Tata Motors Ltd.",
       "industry": "Capital Goods",
       "price": 415.5,
-      "turnover_cr": 248.7,
+      "turnover_cr": 248.71,
       "quant_score": 8,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -178479,7 +178479,7 @@
           "high": 420.0,
           "low": 404.1,
           "close": 415.5,
-          "volume": 7408525
+          "volume": 7408903
         }
       ]
     },
@@ -178498,7 +178498,7 @@
       "width_pct": 0.568,
       "comp_ratio": "178%",
       "dist_tc_pct": 0.28,
-      "rvol": 1.27,
+      "rvol": 1.28,
       "rs_score": -17.03,
       "dma_50": 1520.1,
       "ema_20": 1454.97,
@@ -178867,7 +178867,7 @@
           "high": 1385.9,
           "low": 1330.1,
           "close": 1369.6,
-          "volume": 233956
+          "volume": 233959
         }
       ]
     },
@@ -179643,7 +179643,7 @@
           "high": 33.0,
           "low": 31.95,
           "close": 32.77,
-          "volume": 18704846
+          "volume": 18705111
         }
       ]
     },
@@ -179652,7 +179652,7 @@
       "name": "Axis Bank Ltd.",
       "industry": "Financial Services",
       "price": 1217.1,
-      "turnover_cr": 594.61,
+      "turnover_cr": 594.62,
       "quant_score": 8,
       "rating": 2,
       "stars": "\u2b50\u2b50",
@@ -180031,7 +180031,7 @@
           "high": 1241.6,
           "low": 1215.3,
           "close": 1217.1,
-          "volume": 7004262
+          "volume": 7005197
         }
       ]
     },
@@ -180419,7 +180419,7 @@
           "high": 274.8,
           "low": 260.6,
           "close": 270.3,
-          "volume": 2164346
+          "volume": 2164459
         }
       ]
     },
@@ -180807,7 +180807,7 @@
           "high": 1594.7,
           "low": 1562.6,
           "close": 1563.0,
-          "volume": 1189581
+          "volume": 1189772
         }
       ]
     },
@@ -181195,7 +181195,7 @@
           "high": 279.85,
           "low": 267.8,
           "close": 276.8,
-          "volume": 6750389
+          "volume": 6751156
         }
       ]
     },
@@ -181214,7 +181214,7 @@
       "width_pct": 0.897,
       "comp_ratio": "200%",
       "dist_tc_pct": 0.45,
-      "rvol": 1.45,
+      "rvol": 1.46,
       "rs_score": -7.31,
       "dma_50": 1572.99,
       "ema_20": 1567.11,
@@ -181583,7 +181583,7 @@
           "high": 1542.2,
           "low": 1433.6,
           "close": 1508.0,
-          "volume": 607822
+          "volume": 608709
         }
       ]
     },
@@ -182747,7 +182747,7 @@
           "high": 2130.7,
           "low": 2086.0,
           "close": 2117.5,
-          "volume": 284473
+          "volume": 284498
         }
       ]
     },
@@ -183135,7 +183135,7 @@
           "high": 131.11,
           "low": 126.73,
           "close": 129.48,
-          "volume": 4292513
+          "volume": 4296454
         }
       ]
     },
@@ -183523,7 +183523,7 @@
           "high": 374.25,
           "low": 363.6,
           "close": 370.7,
-          "volume": 2525166
+          "volume": 2525268
         }
       ]
     },
@@ -183911,7 +183911,7 @@
           "high": 365.3,
           "low": 353.3,
           "close": 361.3,
-          "volume": 530451
+          "volume": 530462
         }
       ]
     },
@@ -184299,7 +184299,7 @@
           "high": 1403.1,
           "low": 1364.4,
           "close": 1392.0,
-          "volume": 1151952
+          "volume": 1151973
         }
       ]
     },
@@ -184687,7 +184687,7 @@
           "high": 81.13,
           "low": 78.87,
           "close": 80.5,
-          "volume": 9604814
+          "volume": 9608211
         }
       ]
     },
@@ -185075,7 +185075,7 @@
           "high": 886.25,
           "low": 870.05,
           "close": 883.7,
-          "volume": 65750
+          "volume": 65757
         }
       ]
     },
@@ -185094,7 +185094,7 @@
       "width_pct": 0.446,
       "comp_ratio": "99%",
       "dist_tc_pct": 0.22,
-      "rvol": 1.03,
+      "rvol": 1.04,
       "rs_score": 0.69,
       "dma_50": 11138.18,
       "ema_20": 10980.95,
@@ -185463,7 +185463,7 @@
           "high": 10775.0,
           "low": 10415.0,
           "close": 10666.0,
-          "volume": 39881
+          "volume": 39942
         }
       ]
     },
@@ -185851,7 +185851,7 @@
           "high": 495.8,
           "low": 481.0,
           "close": 491.7,
-          "volume": 431428
+          "volume": 431464
         }
       ]
     },
@@ -186239,7 +186239,7 @@
           "high": 534.6,
           "low": 516.55,
           "close": 529.25,
-          "volume": 260172
+          "volume": 260173
         }
       ]
     },
@@ -186627,7 +186627,7 @@
           "high": 617.45,
           "low": 604.0,
           "close": 615.05,
-          "volume": 283846
+          "volume": 283865
         }
       ]
     },
@@ -187015,7 +187015,7 @@
           "high": 43.43,
           "low": 42.27,
           "close": 43.17,
-          "volume": 11680871
+          "volume": 11692520
         }
       ]
     },
@@ -187791,7 +187791,7 @@
           "high": 241.79,
           "low": 232.65,
           "close": 239.28,
-          "volume": 770808
+          "volume": 771383
         }
       ]
     },
@@ -188179,7 +188179,7 @@
           "high": 622.25,
           "low": 602.6,
           "close": 618.2,
-          "volume": 440439
+          "volume": 440447
         }
       ]
     },
@@ -188567,7 +188567,7 @@
           "high": 575.75,
           "low": 552.1,
           "close": 569.55,
-          "volume": 310788
+          "volume": 310825
         }
       ]
     },
@@ -189343,7 +189343,7 @@
           "high": 438.0,
           "low": 421.05,
           "close": 434.35,
-          "volume": 1843443
+          "volume": 1843893
         }
       ]
     },
@@ -189731,7 +189731,7 @@
           "high": 745.0,
           "low": 713.0,
           "close": 737.45,
-          "volume": 227905
+          "volume": 227926
         }
       ]
     },
@@ -190119,7 +190119,7 @@
           "high": 406.75,
           "low": 392.85,
           "close": 404.75,
-          "volume": 708171
+          "volume": 708176
         }
       ]
     },
@@ -190507,7 +190507,7 @@
           "high": 3909.0,
           "low": 3765.5,
           "close": 3885.6,
-          "volume": 43556
+          "volume": 43557
         }
       ]
     },
@@ -190895,7 +190895,7 @@
           "high": 431.0,
           "low": 413.85,
           "close": 427.9,
-          "volume": 1936481
+          "volume": 1936982
         }
       ]
     },
